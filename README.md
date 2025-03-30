@@ -1,4 +1,4 @@
-# llm-bias-papers
+# awesome-llm-bias-papers
 
 
 ### Auto-captured papers on 2025-03-30 10:30 UTC
