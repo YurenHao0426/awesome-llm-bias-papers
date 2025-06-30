@@ -1,7 +1,6 @@
 
 
 
-## Historical LLM Bias Papers (Past 2 Years)
 
 ### HyperSORT: Self-Organising Robust Training with hyper-networks
 
