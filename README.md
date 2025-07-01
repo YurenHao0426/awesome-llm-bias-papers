@@ -2,6 +2,66 @@
 
 
 
+
+
+## Papers Updated on 2025-07-01 12:10 UTC
+
+### Harnessing AI Agents to Advance Research on Refugee Child Mental Health
+
+**Authors:** Aditya Shrivastava, Komal Gupta, Shraddha Arora
+
+**Categories:** cs.AI, cs.ET
+
+**Published:** 2025-06-30T15:55:41Z
+
+**Abstract:** The international refugee crisis deepens, exposing millions of dis placed children to extreme psychological trauma. This research suggests a com pact, AI-based framework for processing unstructured refugee health data and distilling knowledge on child mental health. We compare two Retrieval-Aug mented Generation (RAG) pipelines, Zephyr-7B-beta and DeepSeek R1-7B, to determine how well they process challenging humanitarian datasets while avoid ing hallucination hazards. By combining cutting-edge AI methods with migration research and child psychology, this study presents a scalable strategy to assist policymakers, mental health practitioners, and humanitarian agencies to better assist displaced children and recognize their mental wellbeing. In total, both the models worked properly but significantly Deepseek R1 is superior to Zephyr with an accuracy of answer relevance 0.91
+
+**Link:** [arXiv:2506.23992v1](http://arxiv.org/abs/2506.23992v1)
+
+---
+
+### Autonomy by Design: Preserving Human Autonomy in AI Decision-Support
+
+**Authors:** Stefan Buijsman, Sarah Carter, Juan Pablo Bermúdez
+
+**Categories:** cs.HC, cs.AI, cs.LG, econ.GN, q-fin.EC
+
+**Published:** 2025-06-30T15:20:10Z
+
+**Abstract:** AI systems increasingly support human decision-making across domains of professional, skill-based, and personal activity. While previous work has examined how AI might affect human autonomy globally, the effects of AI on domain-specific autonomy -- the capacity for self-governed action within defined realms of skill or expertise -- remain understudied. We analyze how AI decision-support systems affect two key components of domain-specific autonomy: skilled competence (the ability to make informed judgments within one's domain) and authentic value-formation (the capacity to form genuine domain-relevant values and preferences). By engaging with prior investigations and analyzing empirical cases across medical, financial, and educational domains, we demonstrate how the absence of reliable failure indicators and the potential for unconscious value shifts can erode domain-specific autonomy both immediately and over time. We then develop a constructive framework for autonomy-preserving AI support systems. We propose specific socio-technical design patterns -- including careful role specification, implementation of defeater mechanisms, and support for reflective practice -- that can help maintain domain-specific autonomy while leveraging AI capabilities. This framework provides concrete guidance for developing AI systems that enhance rather than diminish human agency within specialized domains of action.
+
+**Link:** [arXiv:2506.23952v1](http://arxiv.org/abs/2506.23952v1)
+
+---
+
+### Leveraging the Potential of Prompt Engineering for Hate Speech Detection   in Low-Resource Languages
+
+**Authors:** Ruhina Tabasshum Prome, Tarikul Islam Tamiti, Anomadarshi Barua
+
+**Categories:** cs.CL, cs.AI
+
+**Published:** 2025-06-30T14:59:25Z
+
+**Abstract:** The rapid expansion of social media leads to a marked increase in hate speech, which threatens personal lives and results in numerous hate crimes. Detecting hate speech presents several challenges: diverse dialects, frequent code-mixing, and the prevalence of misspelled words in user-generated content on social media platforms. Recent progress in hate speech detection is typically concentrated on high-resource languages. However, low-resource languages still face significant challenges due to the lack of large-scale, high-quality datasets. This paper investigates how we can overcome this limitation via prompt engineering on large language models (LLMs) focusing on low-resource Bengali language. We investigate six prompting strategies - zero-shot prompting, refusal suppression, flattering the classifier, multi-shot prompting, role prompting, and finally our innovative metaphor prompting to detect hate speech effectively in low-resource languages. We pioneer the metaphor prompting to circumvent the built-in safety mechanisms of LLMs that marks a significant departure from existing jailbreaking methods. We investigate all six different prompting strategies on the Llama2-7B model and compare the results extensively with three pre-trained word embeddings - GloVe, Word2Vec, and FastText for three different deep learning models - multilayer perceptron (MLP), convolutional neural network (CNN), and bidirectional gated recurrent unit (BiGRU). To prove the effectiveness of our metaphor prompting in the low-resource Bengali language, we also evaluate it in another low-resource language - Hindi, and two high-resource languages - English and German. The performance of all prompting techniques is evaluated using the F1 score, and environmental impact factor (IF), which measures CO$_2$ emissions, electricity usage, and computational time.
+
+**Link:** [arXiv:2506.23930v1](http://arxiv.org/abs/2506.23930v1)
+
+---
+
+### Leveraging a Multi-Agent LLM-Based System to Educate Teachers in Hate   Incidents Management
+
+**Authors:** Ewelina Gajewska, Michal Wawer, Katarzyna Budzynska et al.
+
+**Categories:** cs.CY, cs.HC, H.1.2
+
+**Published:** 2025-06-30T12:18:13Z
+
+**Abstract:** Computer-aided teacher training is a state-of-the-art method designed to enhance teachers' professional skills effectively while minimising concerns related to costs, time constraints, and geographical limitations. We investigate the potential of large language models (LLMs) in teacher education, using a case of teaching hate incidents management in schools. To this end, we create a multi-agent LLM-based system that mimics realistic situations of hate, using a combination of retrieval-augmented prompting and persona modelling. It is designed to identify and analyse hate speech patterns, predict potential escalation, and propose effective intervention strategies. By integrating persona modelling with agentic LLMs, we create contextually diverse simulations of hate incidents, mimicking real-life situations. The system allows teachers to analyse and understand the dynamics of hate incidents in a safe and controlled environment, providing valuable insights and practical knowledge to manage such situations confidently in real life. Our pilot evaluation demonstrates teachers' enhanced understanding of the nature of annotator disagreements and the role of context in hate speech interpretation, leading to the development of more informed and effective strategies for addressing hate in classroom settings.
+
+**Link:** [arXiv:2506.23774v1](http://arxiv.org/abs/2506.23774v1)
+
+---
+
 ### HyperSORT: Self-Organising Robust Training with hyper-networks
 
 **Authors:** Samuel Joutard, Marijn Stollenga, Marc Balle Sanchez et al.
