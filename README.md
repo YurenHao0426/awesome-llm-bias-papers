@@ -4,6 +4,52 @@
 
 
 
+
+
+## Papers Updated on 2025-07-03 12:10 UTC
+
+### Towards culturally-appropriate conversational AI for health in the   majority world: An exploratory study with citizens and professionals in Latin   America
+
+**Authors:** Dorian Peters, Fernanda Espinoza, Marco da Re et al.
+
+**Categories:** cs.HC, cs.AI
+
+**Published:** 2025-07-02T13:48:25Z
+
+**Abstract:** There is justifiable interest in leveraging conversational AI (CAI) for health across the majority world, but to be effective, CAI must respond appropriately within culturally and linguistically diverse contexts. Therefore, we need ways to address the fact that current LLMs exclude many lived experiences globally. Various advances are underway which focus on top-down approaches and increasing training data. In this paper, we aim to complement these with a bottom-up locally-grounded approach based on qualitative data collected during participatory workshops in Latin America. Our goal is to construct a rich and human-centred understanding of: a) potential areas of cultural misalignment in digital health; b) regional perspectives on chatbots for health and c)strategies for creating culturally-appropriate CAI; with a focus on the understudied Latin American context. Our findings show that academic boundaries on notions of culture lose meaning at the ground level and technologies will need to engage with a broader framework; one that encapsulates the way economics, politics, geography and local logistics are entangled in cultural experience. To this end, we introduce a framework for 'Pluriversal Conversational AI for Health' which allows for the possibility that more relationality and tolerance, rather than just more data, may be called for.
+
+**Link:** [arXiv:2507.01719v1](http://arxiv.org/abs/2507.01719v1)
+
+---
+
+### Stereotype Detection as a Catalyst for Enhanced Bias Detection: A   Multi-Task Learning Approach
+
+**Authors:** Aditya Tomar, Rudra Murthy, Pushpak Bhattacharyya
+
+**Categories:** cs.CL
+
+**Published:** 2025-07-02T13:46:00Z
+
+**Abstract:** Bias and stereotypes in language models can cause harm, especially in sensitive areas like content moderation and decision-making. This paper addresses bias and stereotype detection by exploring how jointly learning these tasks enhances model performance. We introduce StereoBias, a unique dataset labeled for bias and stereotype detection across five categories: religion, gender, socio-economic status, race, profession, and others, enabling a deeper study of their relationship. Our experiments compare encoder-only models and fine-tuned decoder-only models using QLoRA. While encoder-only models perform well, decoder-only models also show competitive results. Crucially, joint training on bias and stereotype detection significantly improves bias detection compared to training them separately. Additional experiments with sentiment analysis confirm that the improvements stem from the connection between bias and stereotypes, not multi-task learning alone. These findings highlight the value of leveraging stereotype information to build fairer and more effective AI systems.
+
+**Link:** [arXiv:2507.01715v1](http://arxiv.org/abs/2507.01715v1)
+
+---
+
+### Positioning AI Tools to Support Online Harm Reduction Practice:   Applications and Design Directions
+
+**Authors:** Kaixuan Wang, Jason T. Jacques, Chenxin Diao
+
+**Categories:** cs.HC, cs.AI
+
+**Published:** 2025-06-28T16:15:47Z
+
+**Abstract:** Access to accurate and actionable harm reduction information can directly impact the health outcomes of People Who Use Drugs (PWUD), yet existing online channels often fail to meet their diverse and dynamic needs due to limitations in adaptability, accessibility, and the pervasive impact of stigma. Large Language Models (LLMs) present a novel opportunity to enhance information provision, but their application in such a high-stakes domain is under-explored and presents socio-technical challenges. This paper investigates how LLMs can be responsibly designed to support the information needs of PWUD. Through a qualitative workshop involving diverse stakeholder groups (academics, harm reduction practitioners, and an online community moderator), we explored LLM capabilities, identified potential use cases, and delineated core design considerations. Our findings reveal that while LLMs can address some existing information barriers (e.g., by offering responsive, multilingual, and potentially less stigmatising interactions), their effectiveness is contingent upon overcoming challenges related to ethical alignment with harm reduction principles, nuanced contextual understanding, effective communication, and clearly defined operational boundaries. We articulate design pathways emphasising collaborative co-design with experts and PWUD to develop LLM systems that are helpful, safe, and responsibly governed. This work contributes empirically grounded insights and actionable design considerations for the responsible development of LLMs as supportive tools within the harm reduction ecosystem.
+
+**Link:** [arXiv:2506.22941v2](http://arxiv.org/abs/2506.22941v2)
+
+---
+
 ## Papers Updated on 2025-07-01 12:10 UTC
 
 ### Harnessing AI Agents to Advance Research on Refugee Child Mental Health
