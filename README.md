@@ -6,6 +6,52 @@
 
 
 
+
+
+## Papers Updated on 2025-07-04 12:41 UTC
+
+### LLM-Driven Treatment Effect Estimation Under Inference Time Text   Confounding
+
+**Authors:** Yuchen Ma, Dennis Frauen, Jonas Schweisthal et al.
+
+**Categories:** cs.LG
+
+**Published:** 2025-07-03T17:52:27Z
+
+**Abstract:** Estimating treatment effects is crucial for personalized decision-making in medicine, but this task faces unique challenges in clinical practice. At training time, models for estimating treatment effects are typically trained on well-structured medical datasets that contain detailed patient information. However, at inference time, predictions are often made using textual descriptions (e.g., descriptions with self-reported symptoms), which are incomplete representations of the original patient information. In this work, we make three contributions. (1) We show that the discrepancy between the data available during training time and inference time can lead to biased estimates of treatment effects. We formalize this issue as an inference time text confounding problem, where confounders are fully observed during training time but only partially available through text at inference time. (2) To address this problem, we propose a novel framework for estimating treatment effects that explicitly accounts for inference time text confounding. Our framework leverages large language models together with a custom doubly robust learner to mitigate biases caused by the inference time text confounding. (3) Through a series of experiments, we demonstrate the effectiveness of our framework in real-world applications.
+
+**Link:** [arXiv:2507.02843v1](http://arxiv.org/abs/2507.02843v1)
+
+---
+
+### In-Training Multicalibrated Survival Analysis for Healthcare via   Constrained Optimization
+
+**Authors:** Thiti Suttaket, Stanley Kok
+
+**Categories:** cs.LG
+
+**Published:** 2025-07-03T17:16:05Z
+
+**Abstract:** Survival analysis is an important problem in healthcare because it models the relationship between an individual's covariates and the onset time of an event of interest (e.g., death). It is important for survival models to be well-calibrated (i.e., for their predicted probabilities to be close to ground-truth probabilities) because badly calibrated systems can result in erroneous clinical decisions. Existing survival models are typically calibrated at the population level only, and thus run the risk of being poorly calibrated for one or more minority subpopulations. We propose a model called GRADUATE that achieves multicalibration by ensuring that all subpopulations are well-calibrated too. GRADUATE frames multicalibration as a constrained optimization problem, and optimizes both calibration and discrimination in-training to achieve a good balance between them. We mathematically prove that the optimization method used yields a solution that is both near-optimal and feasible with high probability. Empirical comparisons against state-of-the-art baselines on real-world clinical datasets demonstrate GRADUATE's efficacy. In a detailed analysis, we elucidate the shortcomings of the baselines vis-a-vis GRADUATE's strengths.
+
+**Link:** [arXiv:2507.02807v1](http://arxiv.org/abs/2507.02807v1)
+
+---
+
+### Is Reasoning All You Need? Probing Bias in the Age of Reasoning Language   Models
+
+**Authors:** Riccardo Cantini, Nicola Gabriele, Alessio Orsino et al.
+
+**Categories:** cs.CL
+
+**Published:** 2025-07-03T17:01:53Z
+
+**Abstract:** Reasoning Language Models (RLMs) have gained traction for their ability to perform complex, multi-step reasoning tasks through mechanisms such as Chain-of-Thought (CoT) prompting or fine-tuned reasoning traces. While these capabilities promise improved reliability, their impact on robustness to social biases remains unclear. In this work, we leverage the CLEAR-Bias benchmark, originally designed for Large Language Models (LLMs), to investigate the adversarial robustness of RLMs to bias elicitation. We systematically evaluate state-of-the-art RLMs across diverse sociocultural dimensions, using an LLM-as-a-judge approach for automated safety scoring and leveraging jailbreak techniques to assess the strength of built-in safety mechanisms. Our evaluation addresses three key questions: (i) how the introduction of reasoning capabilities affects model fairness and robustness; (ii) whether models fine-tuned for reasoning exhibit greater safety than those relying on CoT prompting at inference time; and (iii) how the success rate of jailbreak attacks targeting bias elicitation varies with the reasoning mechanisms employed. Our findings reveal a nuanced relationship between reasoning capabilities and bias safety. Surprisingly, models with explicit reasoning, whether via CoT prompting or fine-tuned reasoning traces, are generally more vulnerable to bias elicitation than base models without such mechanisms, suggesting reasoning may unintentionally open new pathways for stereotype reinforcement. Reasoning-enabled models appear somewhat safer than those relying on CoT prompting, which are particularly prone to contextual reframing attacks through storytelling prompts, fictional personas, or reward-shaped instructions. These results challenge the assumption that reasoning inherently improves robustness and underscore the need for more bias-aware approaches to reasoning design.
+
+**Link:** [arXiv:2507.02799v1](http://arxiv.org/abs/2507.02799v1)
+
+---
+
 ## Papers Updated on 2025-07-03 12:10 UTC
 
 ### Towards culturally-appropriate conversational AI for health in the   majority world: An exploratory study with citizens and professionals in Latin   America
