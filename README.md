@@ -8,6 +8,52 @@
 
 
 
+
+
+## Papers Updated on 2025-07-08 12:43 UTC
+
+### Bridging Prediction and Intervention Problems in Social Systems
+
+**Authors:** Lydia T. Liu, Inioluwa Deborah Raji, Angela Zhou et al.
+
+**Categories:** cs.LG
+
+**Published:** 2025-07-07T17:29:13Z
+
+**Abstract:** Many automated decision systems (ADS) are designed to solve prediction problems -- where the goal is to learn patterns from a sample of the population and apply them to individuals from the same population. In reality, these prediction systems operationalize holistic policy interventions in deployment. Once deployed, ADS can shape impacted population outcomes through an effective policy change in how decision-makers operate, while also being defined by past and present interactions between stakeholders and the limitations of existing organizational, as well as societal, infrastructure and context. In this work, we consider the ways in which we must shift from a prediction-focused paradigm to an interventionist paradigm when considering the impact of ADS within social systems. We argue this requires a new default problem setup for ADS beyond prediction, to instead consider predictions as decision support, final decisions, and outcomes. We highlight how this perspective unifies modern statistical frameworks and other tools to study the design, implementation, and evaluation of ADS systems, and point to the research directions necessary to operationalize this paradigm shift. Using these tools, we characterize the limitations of focusing on isolated prediction tasks, and lay the foundation for a more intervention-oriented approach to developing and deploying ADS.
+
+**Link:** [arXiv:2507.05216v1](http://arxiv.org/abs/2507.05216v1)
+
+---
+
+### Infrastructuring Contestability: A Framework for Community-Defined AI   Value Pluralism
+
+**Authors:** Andreas Mayer
+
+**Categories:** cs.HC, cs.AI
+
+**Published:** 2025-07-07T16:45:50Z
+
+**Abstract:** The proliferation of AI-driven systems presents a fundamental challenge to Human-Computer Interaction (HCI) and Computer-Supported Cooperative Work (CSCW), often diminishing user agency and failing to account for value pluralism. Current approaches to value alignment, which rely on centralized, top-down definitions, lack the mechanisms for meaningful contestability. This leaves users and communities unable to challenge or shape the values embedded in the systems that govern their digital lives, creating a crisis of legitimacy and trust. This paper introduces Community-Defined AI Value Pluralism (CDAVP), a socio-technical framework that addresses this gap. It reframes the design problem from achieving a single aligned state to infrastructuring a dynamic ecosystem for value deliberation and application. At its core, CDAVP enables diverse, self-organizing communities to define and maintain explicit value profiles - rich, machine-readable representations that can encompass not only preferences but also community-specific rights and duties. These profiles are then contextually activated by the end-user, who retains ultimate control (agency) over which values guide the AI's behavior. AI applications, in turn, are designed to transparently interpret these profiles and moderate conflicts, adhering to a set of non-negotiable, democratically-legitimated meta-rules. The designer's role shifts from crafting static interfaces to becoming an architect of participatory ecosystems. We argue that infrastructuring for pluralism is a necessary pathway toward achieving robust algorithmic accountability and genuinely contestable, human-centric AI.
+
+**Link:** [arXiv:2507.05187v1](http://arxiv.org/abs/2507.05187v1)
+
+---
+
+### Perspectives on How Sociology Can Advance Theorizing about Human-Chatbot   Interaction and Developing Chatbots for Social Good
+
+**Authors:** Celeste Campos-Castillo, Xuan Kang, Linnea I. Laestadius
+
+**Categories:** cs.CY, cs.AI, cs.HC, J.4
+
+**Published:** 2025-07-07T14:12:03Z
+
+**Abstract:** Recently, research into chatbots (also known as conversational agents, AI agents, voice assistants), which are computer applications using artificial intelligence to mimic human-like conversation, has grown sharply. Despite this growth, sociology lags other disciplines (including computer science, medicine, psychology, and communication) in publishing about chatbots. We suggest sociology can advance understanding of human-chatbot interaction and offer four sociological theories to enhance extant work in this field. The first two theories (resource substitution theory, power-dependence theory) add new insights to existing models of the drivers of chatbot use, which overlook sociological concerns about how social structure (e.g., systemic discrimination, the uneven distribution of resources within networks) inclines individuals to use chatbots, including problematic levels of emotional dependency on chatbots. The second two theories (affect control theory, fundamental cause of disease theory) help inform the development of chatbot-driven interventions that minimize safety risks and enhance equity by leveraging sociological insights into how chatbot outputs could attend to cultural contexts (e.g., affective norms) to promote wellbeing and enhance communities (e.g., opportunities for civic participation). We discuss the value of applying sociological theories for advancing theorizing about human-chatbot interaction and developing chatbots for social good.
+
+**Link:** [arXiv:2507.05030v1](http://arxiv.org/abs/2507.05030v1)
+
+---
+
 ## Papers Updated on 2025-07-04 12:41 UTC
 
 ### LLM-Driven Treatment Effect Estimation Under Inference Time Text   Confounding
