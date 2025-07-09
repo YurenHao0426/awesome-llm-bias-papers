@@ -10,6 +10,24 @@
 
 
 
+
+
+## Papers Updated on 2025-07-09 12:43 UTC
+
+### Large Language Models Predict Human Well-being -- But Not Equally   Everywhere
+
+**Authors:** Pat Pataranutaporn, Nattavudh Powdthavee, Chayapatr Archiwaranguprok et al.
+
+**Categories:** cs.HC
+
+**Published:** 2025-07-08T16:22:52Z
+
+**Abstract:** Subjective well-being is a key metric in economic, medical, and policy decision-making. As artificial intelligence provides scalable tools for modelling human outcomes, it is crucial to evaluate whether large language models (LLMs) can accurately predict well-being across diverse global populations. We evaluate four leading LLMs using data from 64,000 individuals in 64 countries. While LLMs capture broad correlates such as income and health, their predictive accuracy decreases in countries underrepresented in the training data, highlighting systematic biases rooted in global digital and economic inequality. A pre-registered experiment demonstrates that LLMs rely on surface-level linguistic similarity rather than conceptual understanding, leading to systematic misestimations in unfamiliar or resource-limited settings. Injecting findings from underrepresented contexts substantially enhances performance, but a significant gap remains. These results highlight both the promise and limitations of LLMs in predicting global well-being, underscoring the importance of robust validation prior to their implementation across these areas.
+
+**Link:** [arXiv:2507.06141v1](http://arxiv.org/abs/2507.06141v1)
+
+---
+
 ## Papers Updated on 2025-07-08 12:43 UTC
 
 ### Bridging Prediction and Intervention Problems in Social Systems
