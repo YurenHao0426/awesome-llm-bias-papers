@@ -12,6 +12,38 @@
 
 
 
+
+
+## Papers Updated on 2025-07-10 12:44 UTC
+
+### Do AI tutors empower or enslave learners? Toward a critical use of AI in   education
+
+**Authors:** Lucile Favero, Juan-Antonio Pérez-Ortiz, Tanja Käser et al.
+
+**Categories:** cs.CY, cs.HC
+
+**Published:** 2025-07-09T14:15:49Z
+
+**Abstract:** The increasing integration of AI tools in education presents both opportunities and challenges, particularly regarding the development of the students' critical thinking skills. This position paper argues that while AI can support learning, its unchecked use may lead to cognitive atrophy, loss of agency, emotional risks, and ethical concerns, ultimately undermining the core goals of education. Drawing on cognitive science and pedagogy, the paper explores how over-reliance on AI can disrupt meaningful learning, foster dependency and conformity, undermine the students' self-efficacy, academic integrity, and well-being, and raise concerns about questionable privacy practices. It also highlights the importance of considering the students' perspectives and proposes actionable strategies to ensure that AI serves as a meaningful support rather than a cognitive shortcut. The paper advocates for an intentional, transparent, and critically informed use of AI that empowers rather than diminishes the learner.
+
+**Link:** [arXiv:2507.06878v1](http://arxiv.org/abs/2507.06878v1)
+
+---
+
+### Toward Neurodivergent-Aware Productivity: A Systems and AI-Based   Human-in-the-Loop Framework for ADHD-Affected Professionals
+
+**Authors:** Raghavendra Deshmukh
+
+**Categories:** cs.HC
+
+**Published:** 2025-07-09T14:05:13Z
+
+**Abstract:** Digital work environments in IT and knowledge-based sectors demand high levels of attention management, task juggling, and self-regulation. For adults with ADHD, these settings often amplify challenges such as time blindness, digital distraction, emotional reactivity, and executive dysfunction. These individuals prefer low-touch, easy-to-use interventions for daily tasks. Conventional productivity tools often fail to support the cognitive variability and overload experienced by neurodivergent professionals. This paper presents a framework that blends Systems Thinking, Human-in-the-Loop design, AI/ML, and privacy-first adaptive agents to support ADHD-affected users. The assistant senses tab usage, application focus, and inactivity using on-device ML. These cues are used to infer attention states and deliver nudges, reflective prompts, or accountability-based presence (body doubling) that aid regulation without disruption. Technically grounded in AI, the approach views attention as shaped by dynamic feedback loops. The result is a replicable model for adaptive, inclusive support tools in high-distraction work environments.
+
+**Link:** [arXiv:2507.06864v1](http://arxiv.org/abs/2507.06864v1)
+
+---
+
 ## Papers Updated on 2025-07-09 12:43 UTC
 
 ### Large Language Models Predict Human Well-being -- But Not Equally   Everywhere
