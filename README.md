@@ -14,6 +14,38 @@
 
 
 
+
+
+## Papers Updated on 2025-07-11 12:09 UTC
+
+### Opting Out of Generative AI: a Behavioral Experiment on the Role of   Education in Perplexity AI Avoidance
+
+**Authors:** Roberto Ulloa, Juhi Kulshrestha, Celina Kacperski
+
+**Categories:** cs.CY, cs.HC
+
+**Published:** 2025-07-10T16:05:11Z
+
+**Abstract:** The rise of conversational AI (CAI), powered by large language models, is transforming how individuals access and interact with digital information. However, these tools may inadvertently amplify existing digital inequalities. This study investigates whether differences in formal education are associated with CAI avoidance, leveraging behavioral data from an online experiment (N = 1,636). Participants were randomly assigned to a control or an information-seeking task, either a traditional online search or a CAI (Perplexity AI). Task avoidance (operationalized as survey abandonment or providing unrelated responses during task assignment) was significantly higher in the CAI group (51%) compared to the search (30.9%) and control (16.8%) groups, with the highest CAI avoidance among participants with lower education levels (~74.4%). Structural equation modeling based on the theoretical framework UTAUT2 and LASSO regressions reveal that education is strongly associated with CAI avoidance, even after accounting for various cognitive and affective predictors of technology adoption. These findings underscore education's central role in shaping AI adoption and the role of self-selection biases in AI-related research, stressing the need for inclusive design to ensure equitable access to emerging technologies.
+
+**Link:** [arXiv:2507.07881v1](http://arxiv.org/abs/2507.07881v1)
+
+---
+
+### Understanding Dataset Bias in Medical Imaging: A Case Study on Chest   X-rays
+
+**Authors:** Ethan Dack, Chengliang Dai
+
+**Categories:** cs.CV
+
+**Published:** 2025-07-10T12:57:09Z
+
+**Abstract:** Recent work has revisited the infamous task Name that dataset and established that in non-medical datasets, there is an underlying bias and achieved high Accuracies on the dataset origin task. In this work, we revisit the same task applied to popular open-source chest X-ray datasets. Medical images are naturally more difficult to release for open-source due to their sensitive nature, which has led to certain open-source datasets being extremely popular for research purposes. By performing the same task, we wish to explore whether dataset bias also exists in these datasets. % We deliberately try to increase the difficulty of the task by dataset transformations. We apply simple transformations of the datasets to try to identify bias. Given the importance of AI applications in medical imaging, it's vital to establish whether modern methods are taking shortcuts or are focused on the relevant pathology. We implement a range of different network architectures on the datasets: NIH, CheXpert, MIMIC-CXR and PadChest. We hope this work will encourage more explainable research being performed in medical imaging and the creation of more open-source datasets in the medical domain. The corresponding code will be released upon acceptance.
+
+**Link:** [arXiv:2507.07722v1](http://arxiv.org/abs/2507.07722v1)
+
+---
+
 ## Papers Updated on 2025-07-10 12:44 UTC
 
 ### Do AI tutors empower or enslave learners? Toward a critical use of AI in   education
