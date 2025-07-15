@@ -16,6 +16,38 @@
 
 
 
+
+
+## Papers Updated on 2025-07-15 12:10 UTC
+
+### SentiDrop: A Multi Modal Machine Learning model for Predicting Dropout   in Distance Learning
+
+**Authors:** Meriem Zerkouk, Miloud Mihoubi, Belkacem Chikhaoui
+
+**Categories:** cs.AI, cs.ET, cs.IR, cs.LG
+
+**Published:** 2025-07-14T16:04:34Z
+
+**Abstract:** School dropout is a serious problem in distance learning, where early detection is crucial for effective intervention and student perseverance. Predicting student dropout using available educational data is a widely researched topic in learning analytics. Our partner's distance learning platform highlights the importance of integrating diverse data sources, including socio-demographic data, behavioral data, and sentiment analysis, to accurately predict dropout risks. In this paper, we introduce a novel model that combines sentiment analysis of student comments using the Bidirectional Encoder Representations from Transformers (BERT) model with socio-demographic and behavioral data analyzed through Extreme Gradient Boosting (XGBoost). We fine-tuned BERT on student comments to capture nuanced sentiments, which were then merged with key features selected using feature importance techniques in XGBoost. Our model was tested on unseen data from the next academic year, achieving an accuracy of 84\%, compared to 82\% for the baseline model. Additionally, the model demonstrated superior performance in other metrics, such as precision and F1-score. The proposed method could be a vital tool in developing personalized strategies to reduce dropout rates and encourage student perseverance
+
+**Link:** [arXiv:2507.10421v1](http://arxiv.org/abs/2507.10421v1)
+
+---
+
+### Beyond classical and contemporary models: a transformative AI framework   for student dropout prediction in distance learning using RAG, Prompt   engineering, and Cross-modal fusion
+
+**Authors:** Miloud Mihoubi, Meriem Zerkouk, Belkacem Chikhaoui
+
+**Categories:** cs.CL, cs.AI, cs.CY, cs.IR, I.2.7; I.2.1; K.3.1
+
+**Published:** 2025-07-04T21:41:43Z
+
+**Abstract:** Student dropout in distance learning remains a critical challenge, with profound societal and economic consequences. While classical machine learning models leverage structured socio-demographic and behavioral data, they often fail to capture the nuanced emotional and contextual factors embedded in unstructured student interactions. This paper introduces a transformative AI framework that redefines dropout prediction through three synergistic innovations: Retrieval-Augmented Generation (RAG) for domain-specific sentiment analysis, prompt engineering to decode academic stressors,and cross-modal attention fusion to dynamically align textual, behavioral, and socio-demographic insights. By grounding sentiment analysis in a curated knowledge base of pedagogical content, our RAG-enhanced BERT model interprets student comments with unprecedented contextual relevance, while optimized prompts isolate indicators of academic distress (e.g., "isolation," "workload anxiety"). A cross-modal attention layer then fuses these insights with temporal engagement patterns, creating holistic risk pro-files. Evaluated on a longitudinal dataset of 4 423 students, the framework achieves 89% accuracy and an F1-score of 0.88, outperforming conventional models by 7% and reducing false negatives by 21%. Beyond prediction, the system generates interpretable interventions by retrieving contextually aligned strategies (e.g., mentorship programs for isolated learners). This work bridges the gap between predictive analytics and actionable pedagogy, offering a scalable solution to mitigate dropout risks in global education systems
+
+**Link:** [arXiv:2507.05285v2](http://arxiv.org/abs/2507.05285v2)
+
+---
+
 ## Papers Updated on 2025-07-11 12:09 UTC
 
 ### Opting Out of Generative AI: a Behavioral Experiment on the Role of   Education in Perplexity AI Avoidance
