@@ -18,6 +18,52 @@
 
 
 
+
+
+## Papers Updated on 2025-07-16 12:10 UTC
+
+### Guiding LLM Decision-Making with Fairness Reward Models
+
+**Authors:** Zara Hall, Melanie Subbiah, Thomas P Zollo et al.
+
+**Categories:** cs.LG
+
+**Published:** 2025-07-15T14:20:23Z
+
+**Abstract:** Large language models are increasingly used to support high-stakes decisions, potentially influencing who is granted bail or receives a loan. Naive chain-of-thought sampling can improve average decision accuracy, but has also been shown to amplify unfair bias. To address this challenge and enable the trustworthy use of reasoning models in high-stakes decision-making, we propose a framework for training a generalizable Fairness Reward Model (FRM). Our model assigns a fairness score to LLM reasoning, enabling the system to down-weight biased trajectories and favor equitable ones when aggregating decisions across reasoning chains. We show that a single Fairness Reward Model, trained on weakly supervised, LLM-annotated examples of biased versus unbiased reasoning, transfers across tasks, domains, and model families without additional fine-tuning. Applied to real-world decision-making tasks including recidivism prediction and social media moderation, we show that our approach consistently improves fairness while matching, or even surpassing, baseline accuracy.
+
+**Link:** [arXiv:2507.11344v1](http://arxiv.org/abs/2507.11344v1)
+
+---
+
+### Fine-Grained Chinese Hate Speech Understanding: Span-Level Resources,   Coded Term Lexicon, and Enhanced Detection Frameworks
+
+**Authors:** Zewen Bai, Liang Yang, Shengdi Yin et al.
+
+**Categories:** cs.CL
+
+**Published:** 2025-07-15T13:19:18Z
+
+**Abstract:** The proliferation of hate speech has inflicted significant societal harm, with its intensity and directionality closely tied to specific targets and arguments. In recent years, numerous machine learning-based methods have been developed to detect hateful comments on online platforms automatically. However, research on Chinese hate speech detection lags behind, and interpretability studies face two major challenges: first, the scarcity of span-level fine-grained annotated datasets limits models' deep semantic understanding of hate speech; second, insufficient research on identifying and interpreting coded hate speech restricts model explainability in complex real-world scenarios. To address these, we make the following contributions: (1) We introduce the Span-level Target-Aware Toxicity Extraction dataset (STATE ToxiCN), the first span-level Chinese hate speech dataset, and evaluate the hate semantic understanding of existing models using it. (2) We conduct the first comprehensive study on Chinese coded hate terms, LLMs' ability to interpret hate semantics. (3) We propose a method to integrate an annotated lexicon into models, significantly enhancing hate speech detection performance. Our work provides valuable resources and insights to advance the interpretability of Chinese hate speech detection research.
+
+**Link:** [arXiv:2507.11292v1](http://arxiv.org/abs/2507.11292v1)
+
+---
+
+### Fairness-Aware Grouping for Continuous Sensitive Variables: Application   for Debiasing Face Analysis with respect to Skin Tone
+
+**Authors:** Veronika Shilova, Emmanuel Malherbe, Giovanni Palma et al.
+
+**Categories:** cs.CV, cs.LG
+
+**Published:** 2025-07-15T12:21:52Z
+
+**Abstract:** Within a legal framework, fairness in datasets and models is typically assessed by dividing observations into predefined groups and then computing fairness measures (e.g., Disparate Impact or Equality of Odds with respect to gender). However, when sensitive attributes such as skin color are continuous, dividing into default groups may overlook or obscure the discrimination experienced by certain minority subpopulations. To address this limitation, we propose a fairness-based grouping approach for continuous (possibly multidimensional) sensitive attributes. By grouping data according to observed levels of discrimination, our method identifies the partition that maximizes a novel criterion based on inter-group variance in discrimination, thereby isolating the most critical subgroups.   We validate the proposed approach using multiple synthetic datasets and demonstrate its robustness under changing population distributions - revealing how discrimination is manifested within the space of sensitive attributes. Furthermore, we examine a specialized setting of monotonic fairness for the case of skin color. Our empirical results on both CelebA and FFHQ, leveraging the skin tone as predicted by an industrial proprietary algorithm, show that the proposed segmentation uncovers more nuanced patterns of discrimination than previously reported, and that these findings remain stable across datasets for a given model. Finally, we leverage our grouping model for debiasing purpose, aiming at predicting fair scores with group-by-group post-processing. The results demonstrate that our approach improves fairness while having minimal impact on accuracy, thus confirming our partition method and opening the door for industrial deployment.
+
+**Link:** [arXiv:2507.11247v1](http://arxiv.org/abs/2507.11247v1)
+
+---
+
 ## Papers Updated on 2025-07-15 12:10 UTC
 
 ### SentiDrop: A Multi Modal Machine Learning model for Predicting Dropout   in Distance Learning
