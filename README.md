@@ -20,6 +20,52 @@
 
 
 
+
+
+## Papers Updated on 2025-07-17 12:10 UTC
+
+### Web-Browsing LLMs Can Access Social Media Profiles and Infer User   Demographics
+
+**Authors:** Meysam Alizadeh, Fabrizio Gilardi, Zeynab Samei et al.
+
+**Categories:** cs.CL
+
+**Published:** 2025-07-16T16:21:01Z
+
+**Abstract:** Large language models (LLMs) have traditionally relied on static training data, limiting their knowledge to fixed snapshots. Recent advancements, however, have equipped LLMs with web browsing capabilities, enabling real time information retrieval and multi step reasoning over live web content. While prior studies have demonstrated LLMs ability to access and analyze websites, their capacity to directly retrieve and analyze social media data remains unexplored. Here, we evaluate whether web browsing LLMs can infer demographic attributes of social media users given only their usernames. Using a synthetic dataset of 48 X (Twitter) accounts and a survey dataset of 1,384 international participants, we show that these models can access social media content and predict user demographics with reasonable accuracy. Analysis of the synthetic dataset further reveals how LLMs parse and interpret social media profiles, which may introduce gender and political biases against accounts with minimal activity. While this capability holds promise for computational social science in the post API era, it also raises risks of misuse particularly in information operations and targeted advertising underscoring the need for safeguards. We recommend that LLM providers restrict this capability in public facing applications, while preserving controlled access for verified research purposes.
+
+**Link:** [arXiv:2507.12372v1](http://arxiv.org/abs/2507.12372v1)
+
+---
+
+### Nonlinear Concept Erasure: a Density Matching Approach
+
+**Authors:** Antoine Saillenfest, Pirmin Lemberger
+
+**Categories:** cs.LG, cs.CL
+
+**Published:** 2025-07-16T15:36:15Z
+
+**Abstract:** Ensuring that neural models used in real-world applications cannot infer sensitive information, such as demographic attributes like gender or race, from text representations is a critical challenge when fairness is a concern. We address this issue through concept erasure, a process that removes information related to a specific concept from distributed representations while preserving as much of the remaining semantic information as possible. Our approach involves learning an orthogonal projection in the embedding space, designed to make the class-conditional feature distributions of the discrete concept to erase indistinguishable after projection. By adjusting the rank of the projector, we control the extent of information removal, while its orthogonality ensures strict preservation of the local structure of the embeddings. Our method, termed $\overline{\mathrm{L}}$EOPARD, achieves state-of-the-art performance in nonlinear erasure of a discrete attribute on classic natural language processing benchmarks. Furthermore, we demonstrate that $\overline{\mathrm{L}}$EOPARD effectively mitigates bias in deep nonlinear classifiers, thereby promoting fairness.
+
+**Link:** [arXiv:2507.12341v1](http://arxiv.org/abs/2507.12341v1)
+
+---
+
+### Looking for Fairness in Recommender Systems
+
+**Authors:** Cécile Logé
+
+**Categories:** cs.IR, cs.AI
+
+**Published:** 2025-07-16T13:53:02Z
+
+**Abstract:** Recommender systems can be found everywhere today, shaping our everyday experience whenever we're consuming content, ordering food, buying groceries online, or even just reading the news. Let's imagine we're in the process of building a recommender system to make content suggestions to users on social media. When thinking about fairness, it becomes clear there are several perspectives to consider: the users asking for tailored suggestions, the content creators hoping for some limelight, and society at large, navigating the repercussions of algorithmic recommendations. A shared fairness concern across all three is the emergence of filter bubbles, a side-effect that takes place when recommender systems are almost "too good", making recommendations so tailored that users become inadvertently confined to a narrow set of opinions/themes and isolated from alternative ideas. From the user's perspective, this is akin to manipulation. From the small content creator's perspective, this is an obstacle preventing them access to a whole range of potential fans. From society's perspective, the potential consequences are far-reaching, influencing collective opinions, social behavior and political decisions. How can our recommender system be fine-tuned to avoid the creation of filter bubbles, and ensure a more inclusive and diverse content landscape? Approaching this problem involves defining one (or more) performance metric to represent diversity, and tweaking our recommender system's performance through the lens of fairness. By incorporating this metric into our evaluation framework, we aim to strike a balance between personalized recommendations and the broader societal goal of fostering rich and varied cultures and points of view.
+
+**Link:** [arXiv:2507.12242v1](http://arxiv.org/abs/2507.12242v1)
+
+---
+
 ## Papers Updated on 2025-07-16 12:10 UTC
 
 ### Guiding LLM Decision-Making with Fairness Reward Models
