@@ -22,6 +22,52 @@
 
 
 
+
+
+## Papers Updated on 2025-07-18 12:10 UTC
+
+### Social and Political Framing in Search Engine Results
+
+**Authors:** Amrit Poudel, Tim Weninger
+
+**Categories:** cs.CL
+
+**Published:** 2025-07-17T17:44:33Z
+
+**Abstract:** Search engines play a crucial role in shaping public discourse by influencing how information is accessed and framed. While prior research has extensively examined various dimensions of search bias -- such as content prioritization, indexical bias, political polarization, and sources of bias -- an important question remains underexplored: how do search engines and ideologically-motivated user queries contribute to bias in search results. This study analyzes the outputs of major search engines using a dataset of political and social topics. The findings reveal that search engines not only prioritize content in ways that reflect underlying biases but also that ideologically-driven user queries exacerbate these biases, resulting in the amplification of specific narratives. Moreover, significant differences were observed across search engines in terms of the sources they prioritize. These results suggest that search engines may play a pivotal role in shaping public perceptions by reinforcing ideological divides, thereby contributing to the broader issue of information polarization.
+
+**Link:** [arXiv:2507.13325v1](http://arxiv.org/abs/2507.13325v1)
+
+---
+
+### Overview of the TalentCLEF 2025: Skill and Job Title Intelligence for   Human Capital Management
+
+**Authors:** Luis Gasco, Hermenegildo Fabregat, Laura García-Sardiña et al.
+
+**Categories:** cs.CL, cs.AI, cs.IR
+
+**Published:** 2025-07-17T16:33:57Z
+
+**Abstract:** Advances in natural language processing and large language models are driving a major transformation in Human Capital Management, with a growing interest in building smart systems based on language technologies for talent acquisition, upskilling strategies, and workforce planning. However, the adoption and progress of these technologies critically depend on the development of reliable and fair models, properly evaluated on public data and open benchmarks, which have so far been unavailable in this domain.   To address this gap, we present TalentCLEF 2025, the first evaluation campaign focused on skill and job title intelligence. The lab consists of two tasks: Task A - Multilingual Job Title Matching, covering English, Spanish, German, and Chinese; and Task B - Job Title-Based Skill Prediction, in English. Both corpora were built from real job applications, carefully anonymized, and manually annotated to reflect the complexity and diversity of real-world labor market data, including linguistic variability and gender-marked expressions.   The evaluations included monolingual and cross-lingual scenarios and covered the evaluation of gender bias.   TalentCLEF attracted 76 registered teams with more than 280 submissions. Most systems relied on information retrieval techniques built with multilingual encoder-based models fine-tuned with contrastive learning, and several of them incorporated large language models for data augmentation or re-ranking. The results show that the training strategies have a larger effect than the size of the model alone. TalentCLEF provides the first public benchmark in this field and encourages the development of robust, fair, and transferable language technologies for the labor market.
+
+**Link:** [arXiv:2507.13275v1](http://arxiv.org/abs/2507.13275v1)
+
+---
+
+### Assessing the Reliability of LLMs Annotations in the Context of   Demographic Bias and Model Explanation
+
+**Authors:** Hadi Mohammadi, Tina Shahedi, Pablo Mosteiro et al.
+
+**Categories:** cs.CL
+
+**Published:** 2025-07-17T14:00:13Z
+
+**Abstract:** Understanding the sources of variability in annotations is crucial for developing fair NLP systems, especially for tasks like sexism detection where demographic bias is a concern. This study investigates the extent to which annotator demographic features influence labeling decisions compared to text content. Using a Generalized Linear Mixed Model, we quantify this inf luence, finding that while statistically present, demographic factors account for a minor fraction ( 8%) of the observed variance, with tweet content being the dominant factor. We then assess the reliability of Generative AI (GenAI) models as annotators, specifically evaluating if guiding them with demographic personas improves alignment with human judgments. Our results indicate that simplistic persona prompting often fails to enhance, and sometimes degrades, performance compared to baseline models. Furthermore, explainable AI (XAI) techniques reveal that model predictions rely heavily on content-specific tokens related to sexism, rather than correlates of demographic characteristics. We argue that focusing on content-driven explanations and robust annotation protocols offers a more reliable path towards fairness than potentially persona simulation.
+
+**Link:** [arXiv:2507.13138v1](http://arxiv.org/abs/2507.13138v1)
+
+---
+
 ## Papers Updated on 2025-07-17 12:10 UTC
 
 ### Web-Browsing LLMs Can Access Social Media Profiles and Infer User   Demographics
