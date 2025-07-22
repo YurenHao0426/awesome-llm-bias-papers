@@ -24,6 +24,38 @@
 
 
 
+
+
+## Papers Updated on 2025-07-22 12:10 UTC
+
+### Surfacing Variations to Calibrate Perceived Reliability of   MLLM-generated Image Descriptions
+
+**Authors:** Meng Chen, Akhil Iyer, Amy Pavel
+
+**Categories:** cs.HC
+
+**Published:** 2025-07-21T14:59:50Z
+
+**Abstract:** Multimodal large language models (MLLMs) provide new opportunities for blind and low vision (BLV) people to access visual information in their daily lives. However, these models often produce errors that are difficult to detect without sight, posing safety and social risks in scenarios from medication identification to outfit selection. While BLV MLLM users use creative workarounds such as cross-checking between tools and consulting sighted individuals, these approaches are often time-consuming and impractical. We explore how systematically surfacing variations across multiple MLLM responses can support BLV users to detect unreliable information without visually inspecting the image. We contribute a design space for eliciting and presenting variations in MLLM descriptions, a prototype system implementing three variation presentation styles, and findings from a user study with 15 BLV participants. Our results demonstrate that presenting variations significantly increases users' ability to identify unreliable claims (by 4.9x using our approach compared to single descriptions) and significantly decreases perceived reliability of MLLM responses. 14 of 15 participants preferred seeing variations of MLLM responses over a single description, and all expressed interest in using our system for tasks from understanding a tornado's path to posting an image on social media.
+
+**Link:** [arXiv:2507.15692v1](http://arxiv.org/abs/2507.15692v1)
+
+---
+
+### Unequal Voices: How LLMs Construct Constrained Queer Narratives
+
+**Authors:** Atreya Ghosal, Ashim Gupta, Vivek Srikumar
+
+**Categories:** cs.CY, cs.AI
+
+**Published:** 2025-07-21T13:03:38Z
+
+**Abstract:** One way social groups are marginalized in discourse is that the narratives told about them often default to a narrow, stereotyped range of topics. In contrast, default groups are allowed the full complexity of human existence. We describe the constrained representations of queer people in LLM generations in terms of harmful representations, narrow representations, and discursive othering and formulate hypotheses to test for these phenomena. Our results show that LLMs are significantly limited in their portrayals of queer personas.
+
+**Link:** [arXiv:2507.15585v1](http://arxiv.org/abs/2507.15585v1)
+
+---
+
 ## Papers Updated on 2025-07-18 12:10 UTC
 
 ### Social and Political Framing in Search Engine Results
