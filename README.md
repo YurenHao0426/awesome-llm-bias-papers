@@ -26,6 +26,24 @@
 
 
 
+
+
+## Papers Updated on 2025-07-24 12:10 UTC
+
+### BGM-HAN: A Hierarchical Attention Network for Accurate and Fair Decision   Assessment on Semi-Structured Profiles
+
+**Authors:** Junhua Liu, Roy Ka-Wei Lee, Kwan Hui Lim
+
+**Categories:** cs.LG, cs.AI, cs.IR
+
+**Published:** 2025-07-23T12:52:38Z
+
+**Abstract:** Human decision-making in high-stakes domains often relies on expertise and heuristics, but is vulnerable to hard-to-detect cognitive biases that threaten fairness and long-term outcomes. This work presents a novel approach to enhancing complex decision-making workflows through the integration of hierarchical learning alongside various enhancements. Focusing on university admissions as a representative high-stakes domain, we propose BGM-HAN, an enhanced Byte-Pair Encoded, Gated Multi-head Hierarchical Attention Network, designed to effectively model semi-structured applicant data. BGM-HAN captures multi-level representations that are crucial for nuanced assessment, improving both interpretability and predictive performance. Experimental results on real admissions data demonstrate that our proposed model significantly outperforms both state-of-the-art baselines from traditional machine learning to large language models, offering a promising framework for augmenting decision-making in domains where structure, context, and fairness matter. Source code is available at: https://github.com/junhua/bgm-han.
+
+**Link:** [arXiv:2507.17472v1](http://arxiv.org/abs/2507.17472v1)
+
+---
+
 ## Papers Updated on 2025-07-22 12:10 UTC
 
 ### Surfacing Variations to Calibrate Perceived Reliability of   MLLM-generated Image Descriptions
