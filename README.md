@@ -28,6 +28,24 @@
 
 
 
+
+
+## Papers Updated on 2025-07-25 12:10 UTC
+
+### Beyond Internal Data: Constructing Complete Datasets for Fairness   Testing
+
+**Authors:** Varsha Ramineni, Hossein A. Rahmani, Emine Yilmaz et al.
+
+**Categories:** cs.LG, cs.AI, stat.ML
+
+**Published:** 2025-07-24T16:35:42Z
+
+**Abstract:** As AI becomes prevalent in high-risk domains and decision-making, it is essential to test for potential harms and biases. This urgency is reflected by the global emergence of AI regulations that emphasise fairness and adequate testing, with some mandating independent bias audits. However, procuring the necessary data for fairness testing remains a significant challenge. Particularly in industry settings, legal and privacy concerns restrict the collection of demographic data required to assess group disparities, and auditors face practical and cultural challenges in gaining access to data. Further, internal historical datasets are often insufficiently representative to identify real-world biases. This work focuses on evaluating classifier fairness when complete datasets including demographics are inaccessible. We propose leveraging separate overlapping datasets to construct complete synthetic data that includes demographic information and accurately reflects the underlying relationships between protected attributes and model features. We validate the fidelity of the synthetic data by comparing it to real data, and empirically demonstrate that fairness metrics derived from testing on such synthetic data are consistent with those obtained from real data. This work, therefore, offers a path to overcome real-world data scarcity for fairness testing, enabling independent, model-agnostic evaluation of fairness, and serving as a viable substitute where real data is limited.
+
+**Link:** [arXiv:2507.18561v1](http://arxiv.org/abs/2507.18561v1)
+
+---
+
 ## Papers Updated on 2025-07-24 12:10 UTC
 
 ### BGM-HAN: A Hierarchical Attention Network for Accurate and Fair Decision   Assessment on Semi-Structured Profiles
