@@ -30,6 +30,52 @@
 
 
 
+
+
+## Papers Updated on 2025-07-29 12:11 UTC
+
+### Model-Agnostic Gender Bias Control for Text-to-Image Generation via   Sparse Autoencoder
+
+**Authors:** Chao Wu, Zhenyi Wang, Kangxian Xie et al.
+
+**Categories:** cs.LG, cs.CV
+
+**Published:** 2025-07-28T16:36:13Z
+
+**Abstract:** Text-to-image (T2I) diffusion models often exhibit gender bias, particularly by generating stereotypical associations between professions and gendered subjects. This paper presents SAE Debias, a lightweight and model-agnostic framework for mitigating such bias in T2I generation. Unlike prior approaches that rely on CLIP-based filtering or prompt engineering, which often require model-specific adjustments and offer limited control, SAE Debias operates directly within the feature space without retraining or architectural modifications. By leveraging a k-sparse autoencoder pre-trained on a gender bias dataset, the method identifies gender-relevant directions within the sparse latent space, capturing professional stereotypes. Specifically, a biased direction per profession is constructed from sparse latents and suppressed during inference to steer generations toward more gender-balanced outputs. Trained only once, the sparse autoencoder provides a reusable debiasing direction, offering effective control and interpretable insight into biased subspaces. Extensive evaluations across multiple T2I models, including Stable Diffusion 1.4, 1.5, 2.1, and SDXL, demonstrate that SAE Debias substantially reduces gender bias while preserving generation quality. To the best of our knowledge, this is the first work to apply sparse autoencoders for identifying and intervening in gender bias within T2I models. These findings contribute toward building socially responsible generative AI, providing an interpretable and model-agnostic tool to support fairness in text-to-image generation.
+
+**Link:** [arXiv:2507.20973v1](http://arxiv.org/abs/2507.20973v1)
+
+---
+
+### Technological folie à deux: Feedback Loops Between AI Chatbots and   Mental Illness
+
+**Authors:** Sebastian Dohnány, Zeb Kurth-Nelson, Eleanor Spens et al.
+
+**Categories:** cs.HC, cs.AI, q-bio.NC
+
+**Published:** 2025-07-25T12:38:54Z
+
+**Abstract:** Artificial intelligence chatbots have achieved unprecedented adoption, with millions now using these systems for emotional support and companionship in contexts of widespread social isolation and capacity-constrained mental health services. While some users report psychological benefits, concerning edge cases are emerging, including reports of suicide, violence, and delusional thinking linked to perceived emotional relationships with chatbots. To understand this new risk profile we need to consider the interaction between human cognitive and emotional biases, and chatbot behavioural tendencies such as agreeableness (sycophancy) and adaptability (in-context learning). We argue that individuals with mental health conditions face increased risks of chatbot-induced belief destabilization and dependence, owing to altered belief-updating, impaired reality-testing, and social isolation. Current AI safety measures are inadequate to address these interaction-based risks. To address this emerging public health concern, we need coordinated action across clinical practice, AI development, and regulatory frameworks.
+
+**Link:** [arXiv:2507.19218v2](http://arxiv.org/abs/2507.19218v2)
+
+---
+
+### FHSTP@EXIST 2025 Benchmark: Sexism Detection with Transparent Speech   Concept Bottleneck Models
+
+**Authors:** Roberto Labadie-Tamayo, Adrian Jaques Böck, Djordje Slijepčević et al.
+
+**Categories:** cs.CL, cs.AI, cs.CY, cs.SI, I.2
+
+**Published:** 2025-07-28T15:30:17Z
+
+**Abstract:** Sexism has become widespread on social media and in online conversation. To help address this issue, the fifth Sexism Identification in Social Networks (EXIST) challenge is initiated at CLEF 2025. Among this year's international benchmarks, we concentrate on solving the first task aiming to identify and classify sexism in social media textual posts. In this paper, we describe our solutions and report results for three subtasks: Subtask 1.1 - Sexism Identification in Tweets, Subtask 1.2 - Source Intention in Tweets, and Subtask 1.3 - Sexism Categorization in Tweets. We implement three models to address each subtask which constitute three individual runs: Speech Concept Bottleneck Model (SCBM), Speech Concept Bottleneck Model with Transformer (SCBMT), and a fine-tuned XLM-RoBERTa transformer model. SCBM uses descriptive adjectives as human-interpretable bottleneck concepts. SCBM leverages large language models (LLMs) to encode input texts into a human-interpretable representation of adjectives, then used to train a lightweight classifier for downstream tasks. SCBMT extends SCBM by fusing adjective-based representation with contextual embeddings from transformers to balance interpretability and classification performance. Beyond competitive results, these two models offer fine-grained explanations at both instance (local) and class (global) levels. We also investigate how additional metadata, e.g., annotators' demographic profiles, can be leveraged. For Subtask 1.1, XLM-RoBERTa, fine-tuned on provided data augmented with prior datasets, ranks 6th for English and Spanish and 4th for English in the Soft-Soft evaluation. Our SCBMT achieves 7th for English and Spanish and 6th for Spanish.
+
+**Link:** [arXiv:2507.20924v1](http://arxiv.org/abs/2507.20924v1)
+
+---
+
 ## Papers Updated on 2025-07-25 12:10 UTC
 
 ### Beyond Internal Data: Constructing Complete Datasets for Fairness   Testing
