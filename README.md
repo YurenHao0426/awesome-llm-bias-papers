@@ -32,6 +32,66 @@
 
 
 
+
+
+## Papers Updated on 2025-07-30 12:10 UTC
+
+### The Interspeech 2025 Speech Accessibility Project Challenge
+
+**Authors:** Xiuwen Zheng, Bornali Phukon, Jonghwan Na et al.
+
+**Categories:** cs.AI
+
+**Published:** 2025-07-29T17:50:59Z
+
+**Abstract:** While the last decade has witnessed significant advancements in Automatic Speech Recognition (ASR) systems, performance of these systems for individuals with speech disabilities remains inadequate, partly due to limited public training data. To bridge this gap, the 2025 Interspeech Speech Accessibility Project (SAP) Challenge was launched, utilizing over 400 hours of SAP data collected and transcribed from more than 500 individuals with diverse speech disabilities. Hosted on EvalAI and leveraging the remote evaluation pipeline, the SAP Challenge evaluates submissions based on Word Error Rate and Semantic Score. Consequently, 12 out of 22 valid teams outperformed the whisper-large-v2 baseline in terms of WER, while 17 teams surpassed the baseline on SemScore. Notably, the top team achieved the lowest WER of 8.11\%, and the highest SemScore of 88.44\% at the same time, setting new benchmarks for future ASR systems in recognizing impaired speech.
+
+**Link:** [arXiv:2507.22047v1](http://arxiv.org/abs/2507.22047v1)
+
+---
+
+### Predict Patient Self-reported Race from Skin Histological Images
+
+**Authors:** Shengjia Chen, Ruchika Verma, Kevin Clare et al.
+
+**Categories:** cs.CV, cs.CE
+
+**Published:** 2025-07-29T15:27:39Z
+
+**Abstract:** Artificial Intelligence (AI) has demonstrated success in computational pathology (CPath) for disease detection, biomarker classification, and prognosis prediction. However, its potential to learn unintended demographic biases, particularly those related to social determinants of health, remains understudied. This study investigates whether deep learning models can predict self-reported race from digitized dermatopathology slides and identifies potential morphological shortcuts. Using a multisite dataset with a racially diverse population, we apply an attention-based mechanism to uncover race-associated morphological features. After evaluating three dataset curation strategies to control for confounding factors, the final experiment showed that White and Black demographic groups retained high prediction performance (AUC: 0.799, 0.762), while overall performance dropped to 0.663. Attention analysis revealed the epidermis as a key predictive feature, with significant performance declines when these regions were removed. These findings highlight the need for careful data curation and bias mitigation to ensure equitable AI deployment in pathology. Code available at: https://github.com/sinai-computational-pathology/CPath_SAIF.
+
+**Link:** [arXiv:2507.21912v1](http://arxiv.org/abs/2507.21912v1)
+
+---
+
+### HRIPBench: Benchmarking LLMs in Harm Reduction Information Provision to   Support People Who Use Drugs
+
+**Authors:** Kaixuan Wang, Chenxin Diao, Jason T. Jacques et al.
+
+**Categories:** cs.CL, cs.CY
+
+**Published:** 2025-07-29T13:47:17Z
+
+**Abstract:** Millions of individuals' well-being are challenged by the harms of substance use. Harm reduction as a public health strategy is designed to improve their health outcomes and reduce safety risks. Some large language models (LLMs) have demonstrated a decent level of medical knowledge, promising to address the information needs of people who use drugs (PWUD). However, their performance in relevant tasks remains largely unexplored. We introduce HRIPBench, a benchmark designed to evaluate LLM's accuracy and safety risks in harm reduction information provision. The benchmark dataset HRIP-Basic has 2,160 question-answer-evidence pairs. The scope covers three tasks: checking safety boundaries, providing quantitative values, and inferring polysubstance use risks. We build the Instruction and RAG schemes to evaluate model behaviours based on their inherent knowledge and the integration of domain knowledge. Our results indicate that state-of-the-art LLMs still struggle to provide accurate harm reduction information, and sometimes, carry out severe safety risks to PWUD. The use of LLMs in harm reduction contexts should be cautiously constrained to avoid inducing negative health outcomes. WARNING: This paper contains illicit content that potentially induces harms.
+
+**Link:** [arXiv:2507.21815v1](http://arxiv.org/abs/2507.21815v1)
+
+---
+
+### Helping or Homogenizing? GenAI as a Design Partner to Pre-Service SLPs   for Just-in-Time Programming of AAC
+
+**Authors:** Cynthia Zastudil, Christine Holyfield, Christine Kapp et al.
+
+**Categories:** cs.HC
+
+**Published:** 2025-07-29T13:44:50Z
+
+**Abstract:** Augmentative and alternative communication (AAC) devices are used by many people around the world who experience difficulties in communicating verbally. One AAC device which is especially useful for minimally verbal autistic children in developing language and communication skills are visual scene displays (VSD). VSDs use images with interactive hotspots embedded in them to directly connect language to real-world contexts which are meaningful to the AAC user. While VSDs can effectively support emergent communicators, their widespread adoption is impacted by how difficult these devices are to configure. We developed a prototype that uses generative AI to automatically suggest initial hotspots on an image to help non-experts efficiently create VSDs. We conducted a within-subjects user study to understand how effective our prototype is in supporting non-expert users, specifically pre-service speech-language pathologists (SLP) who are not familiar with VSDs as an AAC intervention. Pre-service SLPs are actively studying to become clinically certified SLPs and have domain-specific knowledge about language and communication skill development. We evaluated the effectiveness of our prototype based on creation time, quality, and user confidence. We also analyzed the relevance and developmental appropriateness of the automatically generated hotspots and how often users interacted with the generated hotspots. Our results were mixed with SLPs becoming more efficient and confident. However, there were multiple negative impacts as well, including over-reliance and homogenization of communication options. The implications of these findings reach beyond the domain of AAC, especially as generative AI becomes more prevalent across domains, including assistive technology. Future work is needed to further identify and address these risks associated with integrating generative AI into assistive technology.
+
+**Link:** [arXiv:2507.21811v1](http://arxiv.org/abs/2507.21811v1)
+
+---
+
 ## Papers Updated on 2025-07-29 12:11 UTC
 
 ### Model-Agnostic Gender Bias Control for Text-to-Image Generation via   Sparse Autoencoder
