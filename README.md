@@ -34,6 +34,38 @@
 
 
 
+
+
+## Papers Updated on 2025-07-31 12:09 UTC
+
+### MASCA: LLM based-Multi Agents System for Credit Assessment
+
+**Authors:** Gautam Jajoo, Pranjal A Chitale, Saksham Agarwal
+
+**Categories:** cs.CL, cs.CE, cs.LG
+
+**Published:** 2025-07-30T15:19:38Z
+
+**Abstract:** Recent advancements in financial problem-solving have leveraged LLMs and agent-based systems, with a primary focus on trading and financial modeling. However, credit assessment remains an underexplored challenge, traditionally dependent on rule-based methods and statistical models. In this paper, we introduce MASCA, an LLM-driven multi-agent system designed to enhance credit evaluation by mirroring real-world decision-making processes. The framework employs a layered architecture where specialized LLM-based agents collaboratively tackle sub-tasks. Additionally, we integrate contrastive learning for risk and reward assessment to optimize decision-making. We further present a signaling game theory perspective on hierarchical multi-agent systems, offering theoretical insights into their structure and interactions. Our paper also includes a detailed bias analysis in credit assessment, addressing fairness concerns. Experimental results demonstrate that MASCA outperforms baseline approaches, highlighting the effectiveness of hierarchical LLM-based multi-agent systems in financial applications, particularly in credit scoring.
+
+**Link:** [arXiv:2507.22758v1](http://arxiv.org/abs/2507.22758v1)
+
+---
+
+### Hate in Plain Sight: On the Risks of Moderating AI-Generated Hateful   Illusions
+
+**Authors:** Yiting Qu, Ziqing Yang, Yihan Ma et al.
+
+**Categories:** cs.CR, cs.CV
+
+**Published:** 2025-07-30T12:37:29Z
+
+**Abstract:** Recent advances in text-to-image diffusion models have enabled the creation of a new form of digital art: optical illusions--visual tricks that create different perceptions of reality. However, adversaries may misuse such techniques to generate hateful illusions, which embed specific hate messages into harmless scenes and disseminate them across web communities. In this work, we take the first step toward investigating the risks of scalable hateful illusion generation and the potential for bypassing current content moderation models. Specifically, we generate 1,860 optical illusions using Stable Diffusion and ControlNet, conditioned on 62 hate messages. Of these, 1,571 are hateful illusions that successfully embed hate messages, either overtly or subtly, forming the Hateful Illusion dataset. Using this dataset, we evaluate the performance of six moderation classifiers and nine vision language models (VLMs) in identifying hateful illusions. Experimental results reveal significant vulnerabilities in existing moderation models: the detection accuracy falls below 0.245 for moderation classifiers and below 0.102 for VLMs. We further identify a critical limitation in their vision encoders, which mainly focus on surface-level image details while overlooking the secondary layer of information, i.e., hidden messages. To address this risk, we explore preliminary mitigation measures and identify the most effective approaches from the perspectives of image transformations and training-level strategies.
+
+**Link:** [arXiv:2507.22617v1](http://arxiv.org/abs/2507.22617v1)
+
+---
+
 ## Papers Updated on 2025-07-30 12:10 UTC
 
 ### The Interspeech 2025 Speech Accessibility Project Challenge
