@@ -36,6 +36,24 @@
 
 
 
+
+
+## Papers Updated on 2025-08-01 12:10 UTC
+
+### Arabic Hate Speech Identification and Masking in Social Media using Deep   Learning Models and Pre-trained Models Fine-tuning
+
+**Authors:** Salam Thabet Doghmash, Motaz Saad
+
+**Categories:** cs.CL, I.2.7
+
+**Published:** 2025-07-31T15:39:46Z
+
+**Abstract:** Hate speech identification in social media has become an increasingly important issue in recent years. In this research, we address two problems: 1) to detect hate speech in Arabic text, 2) to clean a given text from hate speech. The meaning of cleaning here is replacing each bad word with stars based on the number of letters for each word. Regarding the first problem, we conduct several experiments using deep learning models and transformers to determine the best model in terms of the F1 score. Regarding second problem, we consider it as a machine translation task, where the input is a sentence containing dirty text and the output is the same sentence with masking the dirty text. The presented methods achieve the best model in hate speech detection with a 92\% Macro F1 score and 95\% accuracy. Regarding the text cleaning experiment, the best result in the hate speech masking model reached 0.3 in BLEU score with 1-gram, which is a good result compared with the state of the art machine translation systems.
+
+**Link:** [arXiv:2507.23661v1](http://arxiv.org/abs/2507.23661v1)
+
+---
+
 ## Papers Updated on 2025-07-31 12:09 UTC
 
 ### MASCA: LLM based-Multi Agents System for Credit Assessment
