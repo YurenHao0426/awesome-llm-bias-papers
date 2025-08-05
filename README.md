@@ -38,6 +38,38 @@
 
 
 
+
+
+## Papers Updated on 2025-08-05 12:11 UTC
+
+### Actionable Counterfactual Explanations Using Bayesian Networks and Path   Planning with Applications to Environmental Quality Improvement
+
+**Authors:** Enrique Valero-Leal, Pedro Larrañaga, Concha Bielza
+
+**Categories:** cs.AI, cs.LG
+
+**Published:** 2025-08-04T17:20:50Z
+
+**Abstract:** Counterfactual explanations study what should have changed in order to get an alternative result, enabling end-users to understand machine learning mechanisms with counterexamples. Actionability is defined as the ability to transform the original case to be explained into a counterfactual one. We develop a method for actionable counterfactual explanations that, unlike predecessors, does not directly leverage training data. Rather, data is only used to learn a density estimator, creating a search landscape in which to apply path planning algorithms to solve the problem and masking the endogenous data, which can be sensitive or private. We put special focus on estimating the data density using Bayesian networks, demonstrating how their enhanced interpretability is useful in high-stakes scenarios in which fairness is raising concern. Using a synthetic benchmark comprised of 15 datasets, our proposal finds more actionable and simpler counterfactuals than the current state-of-the-art algorithms. We also test our algorithm with a real-world Environmental Protection Agency dataset, facilitating a more efficient and equitable study of policies to improve the quality of life in United States of America counties. Our proposal captures the interaction of variables, ensuring equity in decisions, as policies to improve certain domains of study (air, water quality, etc.) can be detrimental in others. In particular, the sociodemographic domain is often involved, where we find important variables related to the ongoing housing crisis that can potentially have a severe negative impact on communities.
+
+**Link:** [arXiv:2508.02634v1](http://arxiv.org/abs/2508.02634v1)
+
+---
+
+### Stakeholder Perspectives on Humanistic Implementation of Computer   Perception in Healthcare: A Qualitative Study
+
+**Authors:** Kristin M. Kostick-Quenet, Meghan E. Hurley, Syed Ayaz et al.
+
+**Categories:** cs.HC, cs.AI, cs.CY
+
+**Published:** 2025-08-04T16:01:56Z
+
+**Abstract:** Computer perception (CP) technologies (digital phenotyping, affective computing and related passive sensing approaches) offer unprecedented opportunities to personalize healthcare, but provoke concerns about privacy, bias and the erosion of empathic, relationship-centered practice. A comprehensive understanding of perceived risks, benefits, and implementation challenges from those who design, deploy and experience these tools in real-world settings remains elusive. This study provides the first evidence-based account of key stakeholder perspectives on the relational, technical, and governance challenges raised by the integration of CP technologies into patient care. We conducted in-depth, semi-structured interviews with 102 stakeholders: adolescent patients and their caregivers, frontline clinicians, technology developers, and ethics, legal, policy or philosophy scholars. Transcripts underwent thematic analysis by a multidisciplinary team; reliability was enhanced through double coding and consensus adjudication. Stakeholders articulated seven interlocking concern domains: (1) trustworthiness and data integrity; (2) patient-specific relevance; (3) utility and workflow integration; (4) regulation and governance; (5) privacy and data protection; (6) direct and indirect patient harms; and (7) philosophical critiques of reductionism. To operationalize humanistic safeguards, we propose "personalized roadmaps": co-designed plans that predetermine which metrics will be monitored, how and when feedback is shared, thresholds for clinical action, and procedures for reconciling discrepancies between algorithmic inferences and lived experience. By translating these insights into personalized roadmaps, we offer a practical framework for developers, clinicians and policymakers seeking to harness continuous behavioral data while preserving the humanistic core of care.
+
+**Link:** [arXiv:2508.02550v1](http://arxiv.org/abs/2508.02550v1)
+
+---
+
 ## Papers Updated on 2025-08-01 12:10 UTC
 
 ### Arabic Hate Speech Identification and Masking in Social Media using Deep   Learning Models and Pre-trained Models Fine-tuning
