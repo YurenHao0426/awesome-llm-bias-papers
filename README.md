@@ -40,6 +40,52 @@
 
 
 
+
+
+## Papers Updated on 2025-08-06 12:11 UTC
+
+### Beyond risk: A proto-framework for assessing the societal impact of AI   systems
+
+**Authors:** Willem Fourie
+
+**Categories:** cs.CY, cs.AI, cs.ET
+
+**Published:** 2025-08-05T17:25:14Z
+
+**Abstract:** In the discourse on AI regulation, 'responsible AI' is the dominant paradigm, with the focus on mitigating the risks related to AI systems. While this focus is important and necessary, it has limited use for a systematic consideration of AI's societal impact. This paper proposes a proto-framework for assessing the societal impact of AI systems by operationalising the concept of freedom. This proto-framework is intended as a step towards a fully operationalised framework to be used in policymaking contexts. By drawing on Kantian philosophy and related contemporary interpretations, freedom is developed as the counterpart to the concept of responsibility. Two dimensions of freedom are developed in further detail: freedom as capability and freedom as opportunity. These two dimensions of freedom are then applied in a proto-framework that systematically considers AI's impact on society using the Sustainable Development Goals. This proto-framework aims to complement current risk-based approaches and thereby offers a first step towards operationalising the concept of freedom in AI regulation.
+
+**Link:** [arXiv:2508.03666v1](http://arxiv.org/abs/2508.03666v1)
+
+---
+
+### Probing the Gaps in ChatGPT Live Video Chat for Real-World Assistance   for People who are Blind or Visually Impaired
+
+**Authors:** Ruei-Che Chang, Rosiana Natalie, Wenqian Xu et al.
+
+**Categories:** cs.HC, cs.AI
+
+**Published:** 2025-08-05T16:59:02Z
+
+**Abstract:** Recent advancements in large multimodal models have provided blind or visually impaired (BVI) individuals with new capabilities to interpret and engage with the real world through interactive systems that utilize live video feeds. However, the potential benefits and challenges of such capabilities to support diverse real-world assistive tasks remain unclear. In this paper, we present findings from an exploratory study with eight BVI participants. Participants used ChatGPT's Advanced Voice with Video, a state-of-the-art live video AI released in late 2024, in various real-world scenarios, from locating objects to recognizing visual landmarks, across unfamiliar indoor and outdoor environments. Our findings indicate that current live video AI effectively provides guidance and answers for static visual scenes but falls short in delivering essential live descriptions required in dynamic situations. Despite inaccuracies in spatial and distance information, participants leveraged the provided visual information to supplement their mobility strategies. Although the system was perceived as human-like due to high-quality voice interactions, assumptions about users' visual abilities, hallucinations, generic responses, and a tendency towards sycophancy led to confusion, distrust, and potential risks for BVI users. Based on the results, we discuss implications for assistive video AI agents, including incorporating additional sensing capabilities for real-world use, determining appropriate intervention timing beyond turn-taking interactions, and addressing ecological and safety concerns.
+
+**Link:** [arXiv:2508.03651v1](http://arxiv.org/abs/2508.03651v1)
+
+---
+
+### When Cars Have Stereotypes: Auditing Demographic Bias in Objects from   Text-to-Image Models
+
+**Authors:** Dasol Choi Jihwan Lee, Minjae Lee, Minsuk Kahng
+
+**Categories:** cs.CV, cs.AI
+
+**Published:** 2025-08-05T14:15:53Z
+
+**Abstract:** While prior research on text-to-image generation has predominantly focused on biases in human depictions, we investigate a more subtle yet pervasive phenomenon: demographic bias in generated objects (e.g., cars). We introduce SODA (Stereotyped Object Diagnostic Audit), a novel framework for systematically measuring such biases. Our approach compares visual attributes of objects generated with demographic cues (e.g., "for young people'') to those from neutral prompts, across 2,700 images produced by three state-of-the-art models (GPT Image-1, Imagen 4, and Stable Diffusion) in five object categories. Through a comprehensive analysis, we uncover strong associations between specific demographic groups and visual attributes, such as recurring color patterns prompted by gender or ethnicity cues. These patterns reflect and reinforce not only well-known stereotypes but also more subtle and unintuitive biases. We also observe that some models generate less diverse outputs, which in turn amplifies the visual disparities compared to neutral prompts. Our proposed auditing framework offers a practical approach for testing, revealing how stereotypes still remain embedded in today's generative models. We see this as an essential step toward more systematic and responsible AI development.
+
+**Link:** [arXiv:2508.03483v1](http://arxiv.org/abs/2508.03483v1)
+
+---
+
 ## Papers Updated on 2025-08-05 12:11 UTC
 
 ### Actionable Counterfactual Explanations Using Bayesian Networks and Path   Planning with Applications to Environmental Quality Improvement
