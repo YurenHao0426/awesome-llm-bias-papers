@@ -42,6 +42,38 @@
 
 
 
+
+
+## Papers Updated on 2025-08-07 12:11 UTC
+
+### Can NLP Tackle Hate Speech in the Real World? Stakeholder-Informed   Feedback and Survey on Counterspeech
+
+**Authors:** Tanvi Dinkar, Aiqi Jiang, Simona Frenda et al.
+
+**Categories:** cs.CL
+
+**Published:** 2025-08-06T17:04:58Z
+
+**Abstract:** Counterspeech, i.e. the practice of responding to online hate speech, has gained traction in NLP as a promising intervention. While early work emphasised collaboration with non-governmental organisation stakeholders, recent research trends have shifted toward automated pipelines that reuse a small set of legacy datasets, often without input from affected communities. This paper presents a systematic review of 74 NLP studies on counterspeech, analysing the extent to which stakeholder participation influences dataset creation, model development, and evaluation. To complement this analysis, we conducted a participatory case study with five NGOs specialising in online Gender-Based Violence (oGBV), identifying stakeholder-informed practices for counterspeech generation. Our findings reveal a growing disconnect between current NLP research and the needs of communities most impacted by toxic online content. We conclude with concrete recommendations for re-centring stakeholder expertise in counterspeech research.
+
+**Link:** [arXiv:2508.04638v1](http://arxiv.org/abs/2508.04638v1)
+
+---
+
+### Argumentative Debates for Transparent Bias Detection [Technical Report]
+
+**Authors:** Hamed Ayoobi, Nico Potyka, Anna Rapberger et al.
+
+**Categories:** cs.AI, cs.LG
+
+**Published:** 2025-08-06T14:56:08Z
+
+**Abstract:** As the use of AI systems in society grows, addressing potential biases that emerge from data or are learned by models is essential to prevent systematic disadvantages against specific groups. Several notions of (un)fairness have been proposed in the literature, alongside corresponding algorithmic methods for detecting and mitigating unfairness, but, with very few exceptions, these tend to ignore transparency. Instead, interpretability and explainability are core requirements for algorithmic fairness, even more so than for other algorithmic solutions, given the human-oriented nature of fairness. In this paper, we contribute a novel interpretable, explainable method for bias detection relying on debates about the presence of bias against individuals, based on the values of protected features for the individuals and others in their neighbourhoods. Our method builds upon techniques from formal and computational argumentation, whereby debates result from arguing about biases within and across neighbourhoods. We provide formal, quantitative, and qualitative evaluations of our method, highlighting its strengths in performance against baselines, as well as its interpretability and explainability.
+
+**Link:** [arXiv:2508.04511v1](http://arxiv.org/abs/2508.04511v1)
+
+---
+
 ## Papers Updated on 2025-08-06 12:11 UTC
 
 ### Beyond risk: A proto-framework for assessing the societal impact of AI   systems
