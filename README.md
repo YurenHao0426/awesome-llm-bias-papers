@@ -44,6 +44,66 @@
 
 
 
+
+
+## Papers Updated on 2025-08-08 12:10 UTC
+
+### MV-Debate: Multi-view Agent Debate with Dynamic Reflection Gating for   Multimodal Harmful Content Detection in Social Media
+
+**Authors:** Rui Lu, Jinhe Bi, Yunpu Ma et al.
+
+**Categories:** cs.AI
+
+**Published:** 2025-08-07T16:38:25Z
+
+**Abstract:** Social media has evolved into a complex multimodal environment where text, images, and other signals interact to shape nuanced meanings, often concealing harmful intent. Identifying such intent, whether sarcasm, hate speech, or misinformation, remains challenging due to cross-modal contradictions, rapid cultural shifts, and subtle pragmatic cues. To address these challenges, we propose MV-Debate, a multi-view agent debate framework with dynamic reflection gating for unified multimodal harmful content detection. MV-Debate assembles four complementary debate agents, a surface analyst, a deep reasoner, a modality contrast, and a social contextualist, to analyze content from diverse interpretive perspectives. Through iterative debate and reflection, the agents refine responses under a reflection-gain criterion, ensuring both accuracy and efficiency. Experiments on three benchmark datasets demonstrate that MV-Debate significantly outperforms strong single-model and existing multi-agent debate baselines. This work highlights the promise of multi-agent debate in advancing reliable social intent detection in safety-critical online contexts.
+
+**Link:** [arXiv:2508.05557v1](http://arxiv.org/abs/2508.05557v1)
+
+---
+
+### The World According to LLMs: How Geographic Origin Influences LLMs'   Entity Deduction Capabilities
+
+**Authors:** Harsh Nishant Lalai, Raj Sanjay Shah, Jiaxin Pei et al.
+
+**Categories:** cs.CL, cs.AI
+
+**Published:** 2025-08-07T15:53:30Z
+
+**Abstract:** Large Language Models (LLMs) have been extensively tuned to mitigate explicit biases, yet they often exhibit subtle implicit biases rooted in their pre-training data. Rather than directly probing LLMs with human-crafted questions that may trigger guardrails, we propose studying how models behave when they proactively ask questions themselves. The 20 Questions game, a multi-turn deduction task, serves as an ideal testbed for this purpose. We systematically evaluate geographic performance disparities in entity deduction using a new dataset, Geo20Q+, consisting of both notable people and culturally significant objects (e.g., foods, landmarks, animals) from diverse regions. We test popular LLMs across two gameplay configurations (canonical 20-question and unlimited turns) and in seven languages (English, Hindi, Mandarin, Japanese, French, Spanish, and Turkish). Our results reveal geographic disparities: LLMs are substantially more successful at deducing entities from the Global North than the Global South, and the Global West than the Global East. While Wikipedia pageviews and pre-training corpus frequency correlate mildly with performance, they fail to fully explain these disparities. Notably, the language in which the game is played has minimal impact on performance gaps. These findings demonstrate the value of creative, free-form evaluation frameworks for uncovering subtle biases in LLMs that remain hidden in standard prompting setups. By analyzing how models initiate and pursue reasoning goals over multiple turns, we find geographic and cultural disparities embedded in their reasoning processes. We release the dataset (Geo20Q+) and code at https://sites.google.com/view/llmbias20q/home.
+
+**Link:** [arXiv:2508.05525v1](http://arxiv.org/abs/2508.05525v1)
+
+---
+
+### Competing Risks: Impact on Risk Estimation and Algorithmic Fairness
+
+**Authors:** Vincent Jeanselme, Brian Tom, Jessica Barrett
+
+**Categories:** cs.LG
+
+**Published:** 2025-08-07T14:25:43Z
+
+**Abstract:** Accurate time-to-event prediction is integral to decision-making, informing medical guidelines, hiring decisions, and resource allocation. Survival analysis, the quantitative framework used to model time-to-event data, accounts for patients who do not experience the event of interest during the study period, known as censored patients. However, many patients experience events that prevent the observation of the outcome of interest. These competing risks are often treated as censoring, a practice frequently overlooked due to a limited understanding of its consequences. Our work theoretically demonstrates why treating competing risks as censoring introduces substantial bias in survival estimates, leading to systematic overestimation of risk and, critically, amplifying disparities. First, we formalize the problem of misclassifying competing risks as censoring and quantify the resulting error in survival estimates. Specifically, we develop a framework to estimate this error and demonstrate the associated implications for predictive performance and algorithmic fairness. Furthermore, we examine how differing risk profiles across demographic groups lead to group-specific errors, potentially exacerbating existing disparities. Our findings, supported by an empirical analysis of cardiovascular management, demonstrate that ignoring competing risks disproportionately impacts the individuals most at risk of these events, potentially accentuating inequity. By quantifying the error and highlighting the fairness implications of the common practice of considering competing risks as censoring, our work provides a critical insight into the development of survival models: practitioners must account for competing risks to improve accuracy, reduce disparities in risk assessment, and better inform downstream decisions.
+
+**Link:** [arXiv:2508.05435v1](http://arxiv.org/abs/2508.05435v1)
+
+---
+
+### Whose Truth? Pluralistic Geo-Alignment for (Agentic) AI
+
+**Authors:** Krzysztof Janowicz, Zilong Liu, Gengchen Mai et al.
+
+**Categories:** cs.AI, cs.CY
+
+**Published:** 2025-08-07T14:21:33Z
+
+**Abstract:** AI (super) alignment describes the challenge of ensuring (future) AI systems behave in accordance with societal norms and goals. While a quickly evolving literature is addressing biases and inequalities, the geographic variability of alignment remains underexplored. Simply put, what is considered appropriate, truthful, or legal can differ widely across regions due to cultural norms, political realities, and legislation. Alignment measures applied to AI/ML workflows can sometimes produce outcomes that diverge from statistical realities, such as text-to-image models depicting balanced gender ratios in company leadership despite existing imbalances. Crucially, some model outputs are globally acceptable, while others, e.g., questions about Kashmir, depend on knowing the user's location and their context. This geographic sensitivity is not new. For instance, Google Maps renders Kashmir's borders differently based on user location. What is new is the unprecedented scale and automation with which AI now mediates knowledge, expresses opinions, and represents geographic reality to millions of users worldwide, often with little transparency about how context is managed. As we approach Agentic AI, the need for spatio-temporally aware alignment, rather than one-size-fits-all approaches, is increasingly urgent. This paper reviews key geographic research problems, suggests topics for future work, and outlines methods for assessing alignment sensitivity.
+
+**Link:** [arXiv:2508.05432v1](http://arxiv.org/abs/2508.05432v1)
+
+---
+
 ## Papers Updated on 2025-08-07 12:11 UTC
 
 ### Can NLP Tackle Hate Speech in the Real World? Stakeholder-Informed   Feedback and Survey on Counterspeech
