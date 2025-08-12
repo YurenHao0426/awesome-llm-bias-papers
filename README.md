@@ -46,6 +46,94 @@
 
 
 
+
+
+## Papers Updated on 2025-08-12 12:10 UTC
+
+### Exploring Safety Alignment Evaluation of LLMs in Chinese Mental Health   Dialogues via LLM-as-Judge
+
+**Authors:** Yunna Cai, Fan Wang, Haowei Wang et al.
+
+**Categories:** cs.CL, cs.CY
+
+**Published:** 2025-08-11T17:52:07Z
+
+**Abstract:** Evaluating the safety alignment of LLM responses in high-risk mental health dialogues is particularly difficult due to missing gold-standard answers and the ethically sensitive nature of these interactions. To address this challenge, we propose PsyCrisis-Bench, a reference-free evaluation benchmark based on real-world Chinese mental health dialogues. It evaluates whether the model responses align with the safety principles defined by experts. Specifically designed for settings without standard references, our method adopts a prompt-based LLM-as-Judge approach that conducts in-context evaluation using expert-defined reasoning chains grounded in psychological intervention principles. We employ binary point-wise scoring across multiple safety dimensions to enhance the explainability and traceability of the evaluation. Additionally, we present a manually curated, high-quality Chinese-language dataset covering self-harm, suicidal ideation, and existential distress, derived from real-world online discourse. Experiments on 3600 judgments show that our method achieves the highest agreement with expert assessments and produces more interpretable evaluation rationales compared to existing approaches. Our dataset and evaluation tool are publicly available to facilitate further research.
+
+**Link:** [arXiv:2508.08236v1](http://arxiv.org/abs/2508.08236v1)
+
+---
+
+### Street-Level AI: Are Large Language Models Ready for Real-World   Judgments?
+
+**Authors:** Gaurab Pokharel, Shafkat Farabi, Patrick J. Fowler et al.
+
+**Categories:** cs.CY, cs.AI
+
+**Published:** 2025-08-11T17:12:55Z
+
+**Abstract:** A surge of recent work explores the ethical and societal implications of large-scale AI models that make "moral" judgments. Much of this literature focuses either on alignment with human judgments through various thought experiments or on the group fairness implications of AI judgments. However, the most immediate and likely use of AI is to help or fully replace the so-called street-level bureaucrats, the individuals deciding to allocate scarce social resources or approve benefits. There is a rich history underlying how principles of local justice determine how society decides on prioritization mechanisms in such domains. In this paper, we examine how well LLM judgments align with human judgments, as well as with socially and politically determined vulnerability scoring systems currently used in the domain of homelessness resource allocation. Crucially, we use real data on those needing services (maintaining strict confidentiality by only using local large models) to perform our analyses. We find that LLM prioritizations are extremely inconsistent in several ways: internally on different runs, between different LLMs, and between LLMs and the vulnerability scoring systems. At the same time, LLMs demonstrate qualitative consistency with lay human judgments in pairwise testing. Findings call into question the readiness of current generation AI systems for naive integration in high-stakes societal decision-making.
+
+**Link:** [arXiv:2508.08193v1](http://arxiv.org/abs/2508.08193v1)
+
+---
+
+### FairFLRep: Fairness aware fault localization and repair of Deep Neural   Networks
+
+**Authors:** Moses Openja, Paolo Arcaini, Foutse Khomh et al.
+
+**Categories:** cs.LG, cs.SE
+
+**Published:** 2025-08-11T16:28:42Z
+
+**Abstract:** Deep neural networks (DNNs) are being utilized in various aspects of our daily lives, including high-stakes decision-making applications that impact individuals. However, these systems reflect and amplify bias from the data used during training and testing, potentially resulting in biased behavior and inaccurate decisions. For instance, having different misclassification rates between white and black sub-populations. However, effectively and efficiently identifying and correcting biased behavior in DNNs is a challenge. This paper introduces FairFLRep, an automated fairness-aware fault localization and repair technique that identifies and corrects potentially bias-inducing neurons in DNN classifiers. FairFLRep focuses on adjusting neuron weights associated with sensitive attributes, such as race or gender, that contribute to unfair decisions. By analyzing the input-output relationships within the network, FairFLRep corrects neurons responsible for disparities in predictive quality parity. We evaluate FairFLRep on four image classification datasets using two DNN classifiers, and four tabular datasets with a DNN model. The results show that FairFLRep consistently outperforms existing methods in improving fairness while preserving accuracy. An ablation study confirms the importance of considering fairness during both fault localization and repair stages. Our findings also show that FairFLRep is more efficient than the baseline approaches in repairing the network.
+
+**Link:** [arXiv:2508.08151v1](http://arxiv.org/abs/2508.08151v1)
+
+---
+
+### EchoAid: Enhancing Livestream Shopping Accessibility for the DHH   Community
+
+**Authors:** Zeyu Yang, Zheng Wei, Yang Zhang et al.
+
+**Categories:** cs.HC
+
+**Published:** 2025-08-11T14:26:36Z
+
+**Abstract:** Livestream shopping platforms often overlook the accessibility needs of the Deaf and Hard of Hearing (DHH) community, leading to barriers such as information inaccessibility and overload. To tackle these challenges, we developed \textit{EchoAid}, a mobile app designed to improve the livestream shopping experience for DHH users. \textit{EchoAid} utilizes advanced speech-to-text conversion, Rapid Serial Visual Presentation (RSVP) technology, and Large Language Models (LLMs) to simplify the complex information flow in live sales environments. We conducted exploratory studies with eight DHH individuals to identify design needs and iteratively developed the \textit{EchoAid} prototype based on feedback from three participants. We then evaluate the performance of this system in a user study workshop involving 38 DHH participants. Our findings demonstrate the successful design and validation process of \textit{EchoAid}, highlighting its potential to enhance product information extraction, leading to reduced cognitive overload and more engaging and customized shopping experiences for DHH users.
+
+**Link:** [arXiv:2508.08020v1](http://arxiv.org/abs/2508.08020v1)
+
+---
+
+### The Escalator Problem: Identifying Implicit Motion Blindness in AI for   Accessibility
+
+**Authors:** Xiantao Zhang
+
+**Categories:** cs.CV, cs.HC
+
+**Published:** 2025-08-11T13:53:09Z
+
+**Abstract:** Multimodal Large Language Models (MLLMs) hold immense promise as assistive technologies for the blind and visually impaired (BVI) community. However, we identify a critical failure mode that undermines their trustworthiness in real-world applications. We introduce the Escalator Problem -- the inability of state-of-the-art models to perceive an escalator's direction of travel -- as a canonical example of a deeper limitation we term Implicit Motion Blindness. This blindness stems from the dominant frame-sampling paradigm in video understanding, which, by treating videos as discrete sequences of static images, fundamentally struggles to perceive continuous, low-signal motion. As a position paper, our contribution is not a new model but rather to: (I) formally articulate this blind spot, (II) analyze its implications for user trust, and (III) issue a call to action. We advocate for a paradigm shift from purely semantic recognition towards robust physical perception and urge the development of new, human-centered benchmarks that prioritize safety, reliability, and the genuine needs of users in dynamic environments.
+
+**Link:** [arXiv:2508.07989v1](http://arxiv.org/abs/2508.07989v1)
+
+---
+
+### SCDF: A Speaker Characteristics DeepFake Speech Dataset for Bias   Analysis
+
+**Authors:** Vojtěch Staněk, Karel Srna, Anton Firc et al.
+
+**Categories:** cs.SD, cs.AI, cs.CR
+
+**Published:** 2025-08-11T12:58:37Z
+
+**Abstract:** Despite growing attention to deepfake speech detection, the aspects of bias and fairness remain underexplored in the speech domain. To address this gap, we introduce the Speaker Characteristics Deepfake (SCDF) dataset: a novel, richly annotated resource enabling systematic evaluation of demographic biases in deepfake speech detection. SCDF contains over 237,000 utterances in a balanced representation of both male and female speakers spanning five languages and a wide age range. We evaluate several state-of-the-art detectors and show that speaker characteristics significantly influence detection performance, revealing disparities across sex, language, age, and synthesizer type. These findings highlight the need for bias-aware development and provide a foundation for building non-discriminatory deepfake detection systems aligned with ethical and regulatory standards.
+
+**Link:** [arXiv:2508.07944v1](http://arxiv.org/abs/2508.07944v1)
+
+---
+
 ## Papers Updated on 2025-08-08 12:10 UTC
 
 ### MV-Debate: Multi-view Agent Debate with Dynamic Reflection Gating for   Multimodal Harmful Content Detection in Social Media
