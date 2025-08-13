@@ -48,6 +48,24 @@
 
 
 
+
+
+## Papers Updated on 2025-08-13 12:10 UTC
+
+### Addressing Bias in VLMs for Glaucoma Detection Without Protected   Attribute Supervision
+
+**Authors:** Ahsan Habib Akash, Greg Murray, Annahita Amireskandari et al.
+
+**Categories:** cs.CV
+
+**Published:** 2025-08-12T17:07:58Z
+
+**Abstract:** Vision-Language Models (VLMs) have achieved remarkable success on multimodal tasks such as image-text retrieval and zero-shot classification, yet they can exhibit demographic biases even when explicit protected attributes are absent during training. In this work, we focus on automated glaucoma screening from retinal fundus images, a critical application given that glaucoma is a leading cause of irreversible blindness and disproportionately affects underserved populations. Building on a reweighting-based contrastive learning framework, we introduce an attribute-agnostic debiasing method that (i) infers proxy subgroups via unsupervised clustering of image-image embeddings, (ii) computes gradient-similarity weights between the CLIP-style multimodal loss and a SimCLR-style image-pair contrastive loss, and (iii) applies these weights in a joint, top-$k$ weighted objective to upweight underperforming clusters. This label-free approach adaptively targets the hardest examples, thereby reducing subgroup disparities. We evaluate our method on the Harvard FairVLMed glaucoma subset, reporting Equalized Odds Distance (EOD), Equalized Subgroup AUC (ES AUC), and Groupwise AUC to demonstrate equitable performance across inferred demographic subgroups.
+
+**Link:** [arXiv:2508.09087v1](http://arxiv.org/abs/2508.09087v1)
+
+---
+
 ## Papers Updated on 2025-08-12 12:10 UTC
 
 ### Exploring Safety Alignment Evaluation of LLMs in Chinese Mental Health   Dialogues via LLM-as-Judge
