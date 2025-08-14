@@ -50,6 +50,24 @@
 
 
 
+
+
+## Papers Updated on 2025-08-14 12:10 UTC
+
+### A Comprehensive Survey of Datasets for Clinical Mental Health AI Systems
+
+**Authors:** Aishik Mandal, Prottay Kumar Adhikary, Hiba Arnaout et al.
+
+**Categories:** cs.CL, cs.AI
+
+**Published:** 2025-08-13T13:42:35Z
+
+**Abstract:** Mental health disorders are rising worldwide. However, the availability of trained clinicians has not scaled proportionally, leaving many people without adequate or timely support. To bridge this gap, recent studies have shown the promise of Artificial Intelligence (AI) to assist mental health diagnosis, monitoring, and intervention. However, the development of efficient, reliable, and ethical AI to assist clinicians is heavily dependent on high-quality clinical training datasets. Despite growing interest in data curation for training clinical AI assistants, existing datasets largely remain scattered, under-documented, and often inaccessible, hindering the reproducibility, comparability, and generalizability of AI models developed for clinical mental health care. In this paper, we present the first comprehensive survey of clinical mental health datasets relevant to the training and development of AI-powered clinical assistants. We categorize these datasets by mental disorders (e.g., depression, schizophrenia), data modalities (e.g., text, speech, physiological signals), task types (e.g., diagnosis prediction, symptom severity estimation, intervention generation), accessibility (public, restricted or private), and sociocultural context (e.g., language and cultural background). Along with these, we also investigate synthetic clinical mental health datasets. Our survey identifies critical gaps such as a lack of longitudinal data, limited cultural and linguistic representation, inconsistent collection and annotation standards, and a lack of modalities in synthetic data. We conclude by outlining key challenges in curating and standardizing future datasets and provide actionable recommendations to facilitate the development of more robust, generalizable, and equitable mental health AI systems.
+
+**Link:** [arXiv:2508.09809v1](http://arxiv.org/abs/2508.09809v1)
+
+---
+
 ## Papers Updated on 2025-08-13 12:10 UTC
 
 ### Addressing Bias in VLMs for Glaucoma Detection Without Protected   Attribute Supervision
