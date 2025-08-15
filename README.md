@@ -52,6 +52,38 @@
 
 
 
+
+
+## Papers Updated on 2025-08-15 12:09 UTC
+
+### Who Benefits from AI Explanations? Towards Accessible and Interpretable   Systems
+
+**Authors:** Maria J. P. Peixoto, Akriti Pandey, Ahsan Zaman et al.
+
+**Categories:** cs.AI
+
+**Published:** 2025-08-14T16:26:09Z
+
+**Abstract:** As AI systems are increasingly deployed to support decision-making in critical domains, explainability has become a means to enhance the understandability of these outputs and enable users to make more informed and conscious choices. However, despite growing interest in the usability of eXplainable AI (XAI), the accessibility of these methods, particularly for users with vision impairments, remains underexplored. This paper investigates accessibility gaps in XAI through a two-pronged approach. First, a literature review of 79 studies reveals that evaluations of XAI techniques rarely include disabled users, with most explanations relying on inherently visual formats. Second, we present a four-part methodological proof of concept that operationalizes inclusive XAI design: (1) categorization of AI systems, (2) persona definition and contextualization, (3) prototype design and implementation, and (4) expert and user assessment of XAI techniques for accessibility. Preliminary findings suggest that simplified explanations are more comprehensible for non-visual users than detailed ones, and that multimodal presentation is required for more equitable interpretability.
+
+**Link:** [arXiv:2508.10806v1](http://arxiv.org/abs/2508.10806v1)
+
+---
+
+### Continuous Bangla Sign Language Translation: Mitigating the Expense of   Gloss Annotation with the Assistance of Graph
+
+**Authors:** Safaeid Hossain Arib, Rabeya Akter, Sejuti Rahman
+
+**Categories:** cs.CL, cs.AI
+
+**Published:** 2025-08-14T14:32:31Z
+
+**Abstract:** Millions of individuals worldwide are affected by deafness and hearing impairment. Sign language serves as a sophisticated means of communication for the deaf and hard of hearing. However, in societies that prioritize spoken languages, sign language often faces underestimation, leading to communication barriers and social exclusion. The Continuous Bangla Sign Language Translation project aims to address this gap by enhancing translation methods. While recent approaches leverage transformer architecture for state-of-the-art results, our method integrates graph-based methods with the transformer architecture. This fusion, combining transformer and STGCN-LSTM architectures, proves more effective in gloss-free translation. Our contributions include architectural fusion, exploring various fusion strategies, and achieving a new state-of-the-art performance on diverse sign language datasets, namely RWTH-PHOENIX-2014T, CSL-Daily, How2Sign, and BornilDB v1.0. Our approach demonstrates superior performance compared to current translation outcomes across all datasets, showcasing notable improvements of BLEU-4 scores of 4.01, 2.07, and 0.5, surpassing those of GASLT, GASLT and slt_how2sign in RWTH-PHOENIX-2014T, CSL-Daily, and How2Sign, respectively. Also, we introduce benchmarking on the BornilDB v1.0 dataset for the first time. Our method sets a benchmark for future research, emphasizing the importance of gloss-free translation to improve communication accessibility for the deaf and hard of hearing.
+
+**Link:** [arXiv:2508.10687v1](http://arxiv.org/abs/2508.10687v1)
+
+---
+
 ## Papers Updated on 2025-08-14 12:10 UTC
 
 ### A Comprehensive Survey of Datasets for Clinical Mental Health AI Systems
