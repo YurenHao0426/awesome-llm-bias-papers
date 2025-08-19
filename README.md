@@ -54,6 +54,38 @@
 
 
 
+
+
+## Papers Updated on 2025-08-19 12:10 UTC
+
+### Beyond Internal Data: Bounding and Estimating Fairness from Incomplete   Data
+
+**Authors:** Varsha Ramineni, Hossein A. Rahmani, Emine Yilmaz et al.
+
+**Categories:** cs.LG
+
+**Published:** 2025-08-18T15:57:30Z
+
+**Abstract:** Ensuring fairness in AI systems is critical, especially in high-stakes domains such as lending, hiring, and healthcare. This urgency is reflected in emerging global regulations that mandate fairness assessments and independent bias audits. However, procuring the necessary complete data for fairness testing remains a significant challenge. In industry settings, legal and privacy concerns restrict the collection of demographic data required to assess group disparities, and auditors face practical and cultural challenges in gaining access to data. In practice, data relevant for fairness testing is often split across separate sources: internal datasets held by institutions with predictive attributes, and external public datasets such as census data containing protected attributes, each providing only partial, marginal information. Our work seeks to leverage such available separate data to estimate model fairness when complete data is inaccessible. We propose utilising the available separate data to estimate a set of feasible joint distributions and then compute the set plausible fairness metrics. Through simulation and real experiments, we demonstrate that we can derive meaningful bounds on fairness metrics and obtain reliable estimates of the true metric. Our results demonstrate that this approach can serve as a practical and effective solution for fairness testing in real-world settings where access to complete data is restricted.
+
+**Link:** [arXiv:2508.13040v1](http://arxiv.org/abs/2508.13040v1)
+
+---
+
+### OPTIC-ER: A Reinforcement Learning Framework for Real-Time Emergency   Response and Equitable Resource Allocation in Underserved African Communities
+
+**Authors:** Mary Tonwe
+
+**Categories:** cs.AI, cs.CY, cs.LG
+
+**Published:** 2025-08-18T14:19:57Z
+
+**Abstract:** Public service systems in many African regions suffer from delayed emergency response and spatial inequity, causing avoidable suffering. This paper introduces OPTIC-ER, a reinforcement learning (RL) framework for real-time, adaptive, and equitable emergency response. OPTIC-ER uses an attention-guided actor-critic architecture to manage the complexity of dispatch environments. Its key innovations are a Context-Rich State Vector, encoding action sub-optimality, and a Precision Reward Function, which penalizes inefficiency. Training occurs in a high-fidelity simulation using real data from Rivers State, Nigeria, accelerated by a precomputed Travel Time Atlas. The system is built on the TALS framework (Thin computing, Adaptability, Low-cost, Scalability) for deployment in low-resource settings. In evaluations on 500 unseen incidents, OPTIC-ER achieved a 100.00% optimality rate with negligible inefficiency, confirming its robustness and generalization. Beyond dispatch, the system generates Infrastructure Deficiency Maps and Equity Monitoring Dashboards to guide proactive governance and data-informed development. This work presents a validated blueprint for AI-augmented public services, showing how context-aware RL can bridge the gap between algorithmic decision-making and measurable human impact.
+
+**Link:** [arXiv:2508.12943v1](http://arxiv.org/abs/2508.12943v1)
+
+---
+
 ## Papers Updated on 2025-08-15 12:09 UTC
 
 ### Who Benefits from AI Explanations? Towards Accessible and Interpretable   Systems
