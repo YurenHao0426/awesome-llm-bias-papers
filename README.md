@@ -56,6 +56,24 @@
 
 
 
+
+
+## Papers Updated on 2025-08-20 12:09 UTC
+
+### Democratizing News Recommenders: Modeling Multiple Perspectives for News   Candidate Generation with VQ-VAE
+
+**Authors:** Hardy, Sebastian Padó, Amelie Wührl et al.
+
+**Categories:** cs.IR
+
+**Published:** 2025-08-19T16:13:54Z
+
+**Abstract:** Current News Recommender Systems based on past clicks are designed for engagement, but come at the cost of limiting diversity in the suggested content. While diversity-aware algorithms exist, they suffer from two major limitations. First, they fail to account for normative diversity, which requires fair access to a broad range of perspectives. Second, they typically apply diversity late in the system's pipeline, after a lot of content has already been filtered out. Both limitations confine their effectiveness and prevent them from promoting true normative diversity in news recommendations.   We propose Aspect-Aware Candidate Generation (A2CG) to address these limitations. Our framework introduces diversity into the earliest pipeline stage and uses a configurable mechanism to align diversity with specific democratic goals. A2CG represents each news article using multiple aspects of perspectives (e.g., sentiment, political leaning, frame) and uses a Vector Quantized Variational Autoencoder (VQ-VAE) to create a discrete, multi-faceted representation. A decoder-only model then learns user preferences over these aspect codes. We then inject diversity directly by reversing the sign on some of the query vector's aspects during the candidate retrieval process, ensuring a more diverse set of candidates.   Our method, evaluated on the MIND dataset, enables a flexible trade-off between personalization and diversity early in the recommendation pipeline. It also generates more novel, diverse, and serendipitous candidates while effectively taking into account aspects that strengthen democratic values. These empirical results make it a promising approach for downstream democratized news recommendation systems.
+
+**Link:** [arXiv:2508.13978v1](http://arxiv.org/abs/2508.13978v1)
+
+---
+
 ## Papers Updated on 2025-08-19 12:10 UTC
 
 ### Beyond Internal Data: Bounding and Estimating Fairness from Incomplete   Data
