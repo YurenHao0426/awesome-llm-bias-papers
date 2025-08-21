@@ -58,6 +58,24 @@
 
 
 
+
+
+## Papers Updated on 2025-08-21 12:09 UTC
+
+### Challenges and Opportunities for Participatory Design of Conversational   Agents for Young People's Wellbeing
+
+**Authors:** Natalia Kucirkova, Alexis Hiniker, Megumi Ishikawa et al.
+
+**Categories:** cs.HC, cs.CY
+
+**Published:** 2025-08-20T15:34:08Z
+
+**Abstract:** This paper outlines the challenges and opportunities of research on conversational agents with children and young people across four countries, exploring the ways AI technologies can support children's well-being across social and cultural contexts.
+
+**Link:** [arXiv:2508.14787v1](http://arxiv.org/abs/2508.14787v1)
+
+---
+
 ## Papers Updated on 2025-08-20 12:09 UTC
 
 ### Democratizing News Recommenders: Modeling Multiple Perspectives for News   Candidate Generation with VQ-VAE
