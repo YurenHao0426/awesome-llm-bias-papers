@@ -60,6 +60,52 @@
 
 
 
+
+
+## Papers Updated on 2025-08-22 12:09 UTC
+
+### End-to-End Agentic RAG System Training for Traceable Diagnostic   Reasoning
+
+**Authors:** Qiaoyu Zheng, Yuze Sun, Chaoyi Wu et al.
+
+**Categories:** cs.CL, cs.AI, cs.CV
+
+**Published:** 2025-08-21T17:42:47Z
+
+**Abstract:** Accurate diagnosis with medical large language models is hindered by knowledge gaps and hallucinations. Retrieval and tool-augmented methods help, but their impact is limited by weak use of external knowledge and poor feedback-reasoning traceability. To address these challenges, We introduce Deep-DxSearch, an agentic RAG system trained end-to-end with reinforcement learning (RL) that enables steer tracebale retrieval-augmented reasoning for medical diagnosis. In Deep-DxSearch, we first construct a large-scale medical retrieval corpus comprising patient records and reliable medical knowledge sources to support retrieval-aware reasoning across diagnostic scenarios. More crutially, we frame the LLM as the core agent and the retrieval corpus as its environment, using tailored rewards on format, retrieval, reasoning structure, and diagnostic accuracy, thereby evolving the agentic RAG policy from large-scale data through RL.   Experiments demonstrate that our end-to-end agentic RL training framework consistently outperforms prompt-engineering and training-free RAG approaches across multiple data centers. After training, Deep-DxSearch achieves substantial gains in diagnostic accuracy, surpassing strong diagnostic baselines such as GPT-4o, DeepSeek-R1, and other medical-specific frameworks for both common and rare disease diagnosis under in-distribution and out-of-distribution settings. Moreover, ablation studies on reward design and retrieval corpus components confirm their critical roles, underscoring the uniqueness and effectiveness of our approach compared with traditional implementations. Finally, case studies and interpretability analyses highlight improvements in Deep-DxSearch's diagnostic policy, providing deeper insight into its performance gains and supporting clinicians in delivering more reliable and precise preliminary diagnoses. See https://github.com/MAGIC-AI4Med/Deep-DxSearch.
+
+**Link:** [arXiv:2508.15746v1](http://arxiv.org/abs/2508.15746v1)
+
+---
+
+### Reading Between the Lines: A Study of Thematic Bias in Book Recommender   Systems
+
+**Authors:** Nityaa Kalra, Savvina Daniil
+
+**Categories:** cs.IR
+
+**Published:** 2025-08-21T15:20:39Z
+
+**Abstract:** Recommender systems help users discover new content, but can also reinforce existing biases, leading to unfair exposure and reduced diversity. This paper introduces and investigates thematic bias in book recommendations, defined as a disproportionate favouring or neglect of certain book themes. We adopt a multi-stage bias evaluation framework using the Book-Crossing dataset to evaluate thematic bias in recommendations and its impact on different user groups.   Our findings show that thematic bias originates from content imbalances and is amplified by user engagement patterns. By segmenting users based on their thematic preferences, we find that users with niche and long-tail interests receive less personalised recommendations, whereas users with diverse interests receive more consistent recommendations. These findings suggest that recommender systems should be carefully designed to accommodate a broader range of user interests. By contributing to the broader goal of responsible AI, this work also lays the groundwork for extending thematic bias analysis to other domains.
+
+**Link:** [arXiv:2508.15643v1](http://arxiv.org/abs/2508.15643v1)
+
+---
+
+### Let's Grow an Unbiased Community: Guiding the Fairness of Graphs via New   Links
+
+**Authors:** Jiahua Lu, Huaxiao Liu, Shuotong Bai et al.
+
+**Categories:** cs.LG
+
+**Published:** 2025-08-21T12:26:46Z
+
+**Abstract:** Graph Neural Networks (GNNs) have achieved remarkable success across diverse applications. However, due to the biases in the graph structures, graph neural networks face significant challenges in fairness. Although the original user graph structure is generally biased, it is promising to guide these existing structures toward unbiased ones by introducing new links. The fairness guidance via new links could foster unbiased communities, thereby enhancing fairness in downstream applications. To address this issue, we propose a novel framework named FairGuide. Specifically, to ensure fairness in downstream tasks trained on fairness-guided graphs, we introduce a differentiable community detection task as a pseudo downstream task. Our theoretical analysis further demonstrates that optimizing fairness within this pseudo task effectively enhances structural fairness, promoting fairness generalization across diverse downstream applications. Moreover, FairGuide employs an effective strategy which leverages meta-gradients derived from the fairness-guidance objective to identify new links that significantly enhance structural fairness. Extensive experimental results demonstrate the effectiveness and generalizability of our proposed method across a variety of graph-based fairness tasks.
+
+**Link:** [arXiv:2508.15499v1](http://arxiv.org/abs/2508.15499v1)
+
+---
+
 ## Papers Updated on 2025-08-21 12:09 UTC
 
 ### Challenges and Opportunities for Participatory Design of Conversational   Agents for Young People's Wellbeing
