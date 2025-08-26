@@ -62,6 +62,38 @@
 
 
 
+
+
+## Papers Updated on 2025-08-26 12:10 UTC
+
+### Demographic Biases and Gaps in the Perception of Sexism in Large   Language Models
+
+**Authors:** Judith Tavarez-Rodríguez, Fernando Sánchez-Vega, A. Pastor López-Monroy
+
+**Categories:** cs.CL
+
+**Published:** 2025-08-25T17:36:58Z
+
+**Abstract:** The use of Large Language Models (LLMs) has proven to be a tool that could help in the automatic detection of sexism. Previous studies have shown that these models contain biases that do not accurately reflect reality, especially for minority groups. Despite various efforts to improve the detection of sexist content, this task remains a significant challenge due to its subjective nature and the biases present in automated models. We explore the capabilities of different LLMs to detect sexism in social media text using the EXIST 2024 tweet dataset. It includes annotations from six distinct profiles for each tweet, allowing us to evaluate to what extent LLMs can mimic these groups' perceptions in sexism detection. Additionally, we analyze the demographic biases present in the models and conduct a statistical analysis to identify which demographic characteristics (age, gender) contribute most effectively to this task. Our results show that, while LLMs can to some extent detect sexism when considering the overall opinion of populations, they do not accurately replicate the diversity of perceptions among different demographic groups. This highlights the need for better-calibrated models that account for the diversity of perspectives across different populations.
+
+**Link:** [arXiv:2508.18245v1](http://arxiv.org/abs/2508.18245v1)
+
+---
+
+### Development of a Neural Network Model for Currency Detection to aid   visually impaired people in Nigeria
+
+**Authors:** Sochukwuma Nwokoye, Desmond Moru
+
+**Categories:** cs.CV, cs.LG
+
+**Published:** 2025-08-25T13:27:27Z
+
+**Abstract:** Neural networks in assistive technology for visually impaired leverage artificial intelligence's capacity to recognize patterns in complex data. They are used for converting visual data into auditory or tactile representations, helping the visually impaired understand their surroundings. The primary aim of this research is to explore the potential of artificial neural networks to facilitate the differentiation of various forms of cash for individuals with visual impairments. In this study, we built a custom dataset of 3,468 images, which was subsequently used to train an SSD neural network model. The proposed system can accurately identify Nigerian cash, thereby streamlining commercial transactions. The performance of the system in terms of accuracy was assessed, and the Mean Average Precision score was over 90%. We believe that our system has the potential to make a substantial contribution to the field of assistive technology while also improving the quality of life of visually challenged persons in Nigeria and beyond.
+
+**Link:** [arXiv:2508.18012v1](http://arxiv.org/abs/2508.18012v1)
+
+---
+
 ## Papers Updated on 2025-08-22 12:09 UTC
 
 ### End-to-End Agentic RAG System Training for Traceable Diagnostic   Reasoning
