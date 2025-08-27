@@ -64,6 +64,24 @@
 
 
 
+
+
+## Papers Updated on 2025-08-27 12:09 UTC
+
+### MATRIX: Multi-Agent simulaTion fRamework for safe Interactions and   conteXtual clinical conversational evaluation
+
+**Authors:** Ernest Lim, Yajie Vera He, Jared Joselowitz et al.
+
+**Categories:** cs.AI, cs.HC, cs.MA, 68T50, 68T42, 92C50, 68Q60, I.2.0; J.3
+
+**Published:** 2025-08-26T16:12:12Z
+
+**Abstract:** Despite the growing use of large language models (LLMs) in clinical dialogue systems, existing evaluations focus on task completion or fluency, offering little insight into the behavioral and risk management requirements essential for safety-critical systems. This paper presents MATRIX (Multi-Agent simulaTion fRamework for safe Interactions and conteXtual clinical conversational evaluation), a structured, extensible framework for safety-oriented evaluation of clinical dialogue agents.   MATRIX integrates three components: (1) a safety-aligned taxonomy of clinical scenarios, expected system behaviors and failure modes derived through structured safety engineering methods; (2) BehvJudge, an LLM-based evaluator for detecting safety-relevant dialogue failures, validated against expert clinician annotations; and (3) PatBot, a simulated patient agent capable of producing diverse, scenario-conditioned responses, evaluated for realism and behavioral fidelity with human factors expertise, and a patient-preference study.   Across three experiments, we show that MATRIX enables systematic, scalable safety evaluation. BehvJudge with Gemini 2.5-Pro achieves expert-level hazard detection (F1 0.96, sensitivity 0.999), outperforming clinicians in a blinded assessment of 240 dialogues. We also conducted one of the first realism analyses of LLM-based patient simulation, showing that PatBot reliably simulates realistic patient behavior in quantitative and qualitative evaluations. Using MATRIX, we demonstrate its effectiveness in benchmarking five LLM agents across 2,100 simulated dialogues spanning 14 hazard scenarios and 10 clinical domains.   MATRIX is the first framework to unify structured safety engineering with scalable, validated conversational AI evaluation, enabling regulator-aligned safety auditing. We release all evaluation tools, prompts, structured scenarios, and datasets.
+
+**Link:** [arXiv:2508.19163v1](http://arxiv.org/abs/2508.19163v1)
+
+---
+
 ## Papers Updated on 2025-08-26 12:10 UTC
 
 ### Demographic Biases and Gaps in the Perception of Sexism in Large   Language Models
