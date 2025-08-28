@@ -66,6 +66,38 @@
 
 
 
+
+
+## Papers Updated on 2025-08-28 12:09 UTC
+
+### Your AI Bosses Are Still Prejudiced: The Emergence of Stereotypes in   LLM-Based Multi-Agent Systems
+
+**Authors:** Jingyu Guo, Yingying Xu
+
+**Categories:** cs.CL
+
+**Published:** 2025-08-27T14:25:43Z
+
+**Abstract:** While stereotypes are well-documented in human social interactions, AI systems are often presumed to be less susceptible to such biases. Previous studies have focused on biases inherited from training data, but whether stereotypes can emerge spontaneously in AI agent interactions merits further exploration. Through a novel experimental framework simulating workplace interactions with neutral initial conditions, we investigate the emergence and evolution of stereotypes in LLM-based multi-agent systems. Our findings reveal that (1) LLM-Based AI agents develop stereotype-driven biases in their interactions despite beginning without predefined biases; (2) stereotype effects intensify with increased interaction rounds and decision-making power, particularly after introducing hierarchical structures; (3) these systems exhibit group effects analogous to human social behavior, including halo effects, confirmation bias, and role congruity; and (4) these stereotype patterns manifest consistently across different LLM architectures. Through comprehensive quantitative analysis, these findings suggest that stereotype formation in AI systems may arise as an emergent property of multi-agent interactions, rather than merely from training data biases. Our work underscores the need for future research to explore the underlying mechanisms of this phenomenon and develop strategies to mitigate its ethical impacts.
+
+**Link:** [arXiv:2508.19919v1](http://arxiv.org/abs/2508.19919v1)
+
+---
+
+### AI-Powered Detection of Inappropriate Language in Medical School   Curricula
+
+**Authors:** Chiman Salavati, Shannon Song, Scott A. Hale et al.
+
+**Categories:** cs.CL, cs.AI, cs.CY, I.2.1; I.2.7
+
+**Published:** 2025-08-27T13:40:45Z
+
+**Abstract:** The use of inappropriate language -- such as outdated, exclusionary, or non-patient-centered terms -- medical instructional materials can significantly influence clinical training, patient interactions, and health outcomes. Despite their reputability, many materials developed over past decades contain examples now considered inappropriate by current medical standards. Given the volume of curricular content, manually identifying instances of inappropriate use of language (IUL) and its subcategories for systematic review is prohibitively costly and impractical. To address this challenge, we conduct a first-in-class evaluation of small language models (SLMs) fine-tuned on labeled data and pre-trained LLMs with in-context learning on a dataset containing approximately 500 documents and over 12,000 pages. For SLMs, we consider: (1) a general IUL classifier, (2) subcategory-specific binary classifiers, (3) a multilabel classifier, and (4) a two-stage hierarchical pipeline for general IUL detection followed by multilabel classification. For LLMs, we consider variations of prompts that include subcategory definitions and/or shots. We found that both LLama-3 8B and 70B, even with carefully curated shots, are largely outperformed by SLMs. While the multilabel classifier performs best on annotated data, supplementing training with unflagged excerpts as negative examples boosts the specific classifiers' AUC by up to 25%, making them most effective models for mitigating harmful language in medical curricula.
+
+**Link:** [arXiv:2508.19883v1](http://arxiv.org/abs/2508.19883v1)
+
+---
+
 ## Papers Updated on 2025-08-27 12:09 UTC
 
 ### MATRIX: Multi-Agent simulaTion fRamework for safe Interactions and   conteXtual clinical conversational evaluation
