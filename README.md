@@ -68,6 +68,24 @@
 
 
 
+
+
+## Papers Updated on 2025-08-29 12:09 UTC
+
+### Finite-Time Guarantees for Multi-Agent Combinatorial Bandits with   Nonstationary Rewards
+
+**Authors:** Katherine B. Adams, Justin J. Boutilier, Qinyang He et al.
+
+**Categories:** cs.LG, cs.SY, eess.SY
+
+**Published:** 2025-08-28T15:51:57Z
+
+**Abstract:** We study a sequential resource allocation problem where a decision maker selects subsets of agents at each period to maximize overall outcomes without prior knowledge of individual-level effects. Our framework applies to settings such as community health interventions, targeted digital advertising, and workforce retention programs, where intervention effects evolve dynamically. Agents may exhibit habituation (diminished response from frequent selection) or recovery (enhanced response from infrequent selection). The technical challenge centers on nonstationary reward distributions that lead to changing intervention effects over time. The problem requires balancing two key competing objectives: heterogeneous individual rewards and the exploration-exploitation tradeoff in terms of learning for improved future decisions as opposed to maximizing immediate outcomes. Our contribution introduces the first framework incorporating this form of nonstationary rewards in the combinatorial multi-armed bandit literature. We develop algorithms with theoretical guarantees on dynamic regret and demonstrate practical efficacy through a diabetes intervention case study. Our personalized community intervention algorithm achieved up to three times as much improvement in program enrollment compared to baseline approaches, validating the framework's potential for real-world applications. This work bridges theoretical advances in adaptive learning with practical challenges in population-level behavioral change interventions.
+
+**Link:** [arXiv:2508.20923v1](http://arxiv.org/abs/2508.20923v1)
+
+---
+
 ## Papers Updated on 2025-08-28 12:09 UTC
 
 ### Your AI Bosses Are Still Prejudiced: The Emergence of Stereotypes in   LLM-Based Multi-Agent Systems
